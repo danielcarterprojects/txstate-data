@@ -33,7 +33,7 @@ For years 2019 and later, files include the following columns:
 
 For 2018, the file includes the following columns:
 
-- # of Units
+- \# of Units
 - Incident Alarm Time
 - Problem Type
 - Location
