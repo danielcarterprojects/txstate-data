@@ -44,7 +44,7 @@ For 2018, the file includes the following columns:
 
 We collect eviction proceedings from the Hays County Justices of the Peace with jurisdiction in San Marcos. This file includes all evictions filed, regardless of outcome.
 
-This data is updated periodically. The earliest data is from 2016, and the most recent collection was on August 13, 2021.
+This data is updated periodically. The earliest data is from 2016. The most recent collection was on August 13, 2021.
 
 The file includes the following columns:
 
