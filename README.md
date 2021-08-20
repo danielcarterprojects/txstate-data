@@ -53,3 +53,7 @@ The file includes the following columns:
 - Defendant
 - DateFiled
 - DefendantDemographics
+
+## Apartment Addresses and Units
+
+We collect the addresses and number of units for apartments in 78666. Information is obtained through the Hays County Appraisal District and the San Marcos Multi Family status report released by the city in June of each year.
