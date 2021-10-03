@@ -1,6 +1,6 @@
 # txstate-data
 
-This repository contains public data collected for and used in Texas State University's data journalism curriculum.
+This repository contains public data collected for and used in Texas State University's data journalism curriculum. If you need help download data files from this repository, please see [this video](https://youtu.be/XTw3xVjz-Po).
 
 ## Data and Processing Notes
 
