@@ -97,6 +97,7 @@ DOB: 04/25/1999"
 "F21075J11","River Ridge MHC LLC","Christopher Salcido","06/30/2021",""
 "F21076J11","Hashem Dadoush","Jacqueline Jordan","07/07/2021",""
 "F21077J11","Capital Choice Properties","Julie Stuart","07/12/2021","DOB: 01/28/1965"
+"F21078J11","Sherry Rodriguez,Robert Rodriguez","Joseph Cervantes,Griselda Vasquez","07/14/2021",""
 "F21079J11","HART PROPERTIES","Jennifer Ybarra","07/14/2021","DOB: 10/10/1985"
 "F21080J11","Ramiro Udave,Elizabeth Udave","Fernando Udave,Eva Udave","07/14/2021",""
 "F21084J11","Whispering Oaks MHC, LLC","Eddie Cardenas,Angelica Hernandez,Sandra Rodriguez","07/19/2021",""
@@ -121,6 +122,24 @@ DOB: 04/25/1999"
 "F21106J11","Southwest Leasing Solutions","Miranda Barrientos","09/22/2021","Female White
 DOB: 07/10/2001
 4' 10"", 115 lbs"
+"F21107J11","Joseph Moody","Lawanda Moreno","09/29/2021","Female White
+DOB: 05/29/1985
+4' 11"", 150 lbs"
+"F21108J11","Tanger San Marc, LLC","Nautica Retail USA, LLC","10/04/2021",""
+"F21109J11","Tammi Wilhelmsen","Eddie Hernandez","10/05/2021","Male White
+DOB: 07/10/1999
+5' 8"", 140 lbs"
+"F21110J11","Tammi Wilhelmsen","Tiffany Johnson","10/05/2021","DOB: 05/13/1976"
+"F21111J11","Victor Mercado, Jr.","Justin Brown","10/18/2021","DOB: 06/05/1975"
+"F21112J11","San Marcos Premium Outlets, L.P.","Retailing Enterprises, LLC D/B/A Invicta","10/21/2021",""
+"F21113J11","San Marcos Housing Authority","Nikisha Lassiter","10/21/2021","Female Black
+DOB: 11/27/1983"
+"F21114J11","Woods of San Marcos, LLC","Myah Hopes","10/22/2021",""
+"F21115J11","Woods of San Marcos, LLC","Laz Garcia","10/22/2021",""
+"F21116J11","Woods of San Marcos, LLC","Destiny Aguilar","10/22/2021",""
+"F21117J11","Woods of San Marcos, LLC","Ingrid Fields","10/22/2021",""
+"F21118J11","Woods of San Marcos, LLC","Jacob Kasberg","10/22/2021",""
+"F21119J11","Lynx Property Services","Gregory Bailey","11/01/2021","DOB: 10/14/1959"
 "F21001J12","VILLAS AT WILLOW SPRINGS","Roy Flores, Jr.","01/06/2021","Male White
 DOB: 09/15/1989
 5' 10"", 220 lbs"
@@ -181,21 +200,48 @@ DOB: 09/26/1986"
 "F21045J12","Hawthorne at Blanco Riverwalk","Isaac Gonzalez","08/16/2021","Male
 DOB: 05/01/1996"
 "F21047J12","Hawthorne at Blanco Riverwalk,Colby Cotton","Francisco Camacho,Joanne Garza,Juan Zelaya","08/24/2021",""
-"F21049J12","San Marcos Green Investor, LLC","Tiffany Sowell","09/14/2021","Female
-DOB: 06/30/1977"
 "F21050J12","Langtry/VJE Realty","Sarah Rivas,Rachael Kinsey","09/14/2021","Female White
 DOB: 01/23/1988
 5' 4"", 135 lbs"
 "F21051J12","Gypsy Cove RV Park- Shelly Wheatley","Jessica Heil","09/15/2021","Female White
 DOB: 08/01/1977
 5' 5"""
-"F21052J12","VILLAS AT WILLOW SPRINGS","ROLAND HOLDER,Clarissa Hernandez","09/16/2021","Female White
-DOB: 02/21/1996
-5' 4"", 130 lbs"
 "F21053J12","VILLAS AT WILLOW SPRINGS","ELAINE QUINTANILLA","09/16/2021","Female White
 DOB: 09/09/1982
 5' 0"""
-"F21054J12","VILLAS AT WILLOW SPRINGS","Dora Arambul","09/16/2021","DOB: 04/17/1980"
+"F21055J12","Nancy Kujak","Vivian Felton,Chivas Sandage","09/28/2021",""
+"F21056J12","Mardelle & Gill McIntyre dba McIntyre Properties","Kelsey Cadena,Terra Cadena","10/12/2021",""
+"F21057J12","Mardelle & Gill McIntyre dba McIntyre Properties","William Turner,Tanner Robertson","10/12/2021","Male
+DOB: 12/16/1997"
+"F21058J12","Mardelle & Gill McIntyre dba McIntyre Properties","Joseph Sorenson","10/12/2021","Male White
+DOB: 02/16/1989
+5' 6"", 125 lbs"
+"F21059J12","Mardelle & Gill McIntyre dba McIntyre Properties","Ethan Nagar","10/12/2021","Male White
+DOB: 01/12/1999
+5' 9"", 210 lbs"
+"F21060J12","Mardelle & Gill McIntyre dba McIntyre Properties","John Poncio,Erica Luevanos","10/12/2021","Female
+DOB: 08/10/1995"
+"F21061J12","Francisco Acosta","Rachael Hyatt","10/13/2021","Female White
+DOB: 10/14/1981
+5' 11"", 180 lbs"
+"F21065J12","VILLAS AT WILLOW SPRINGS","Terri Fludd","10/13/2021","DOB: 07/11/1966"
+"F21067J12","VILLAS AT WILLOW SPRINGS","SKYLER HERRERA","10/13/2021","Male Unavailable
+DOB: 08/03/1994"
+"F21068J12","Prosperous Sierra Properties Palm Square Apartments","Autumn Felder-Schlieper,Joseph Aguilar","10/20/2021","Male White
+DOB: 11/30/1993
+5' 5"", 120 lbs"
+"F21069J12","Prosperous Sierra Properties Palm Square Apartments","Meranda Villalpando","10/20/2021","Female White
+DOB: 02/16/1993
+5' 4"", 260 lbs"
+"F21070J12","Prosperous Sierra Properties Palm Square Apartments","Andrea Freed","10/20/2021","Female White
+DOB: 10/19/1945
+5' 4"", 155 lbs"
+"F21071J12","Prosperous Sierra Properties Palm Square Apartments","Nicole Arriaga","10/20/2021","Female
+DOB: 01/05/1983"
+"F21072J12","Robert Jackson","Justin Guess","10/27/2021","Male White
+DOB: 05/10/1979
+5' 10"", 175 lbs"
+"F21073J12","The Colony of San Marcos","Lesbia Corado Esquivel,Yovani Grijalva Guzman","10/28/2021","DOB: 07/30/1985"
 "F20001J11","SAN MARCOS HOUSING AUTHORITY","Elizabeth Gonzales,Ambria Gonzales","01/02/2020","DOB: 01/02/2001"
 "F20002J11","Uptown Square","Daryl Brooks, Jr.","01/06/2020","Male Black
 DOB: 06/10/1994
