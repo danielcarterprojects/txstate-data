@@ -4,6 +4,10 @@ This repository contains public data collected for and used in Texas State Unive
 
 ## Data and Processing Notes
 
+### Cite and Release Data
+
+Data related to San Marcos' cite and release ordinance is located in the police folder. Data is collected quarterly from the San Marcos Cite and Release Dashboard, and basic data cleaning is performed. Because the offense columns are historically idiosyncratic; we include only data on the first five offenses and note that there might be inconsistencies in those columns. 
+
 ### Police Calls
 
 Police calls are collected from the San Marcos Police Department on a yearly basis. The earliest data is from 2016.

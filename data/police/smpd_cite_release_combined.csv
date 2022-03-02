@@ -1,0 +1,950 @@
+Incident_Nr,Reported_Date,Dispo,BlockNumber,C&R,Contact Rs,Arrest Rs,Notes,Race_Ethnicity,Race,Ethnicity,Sex,Age_,Age Range,HometownCity,ArrestType_Code,Arrest_Type,Offense_1,Level_1,Class_1,Offense_2,Level_2,Class_2,Offense_3,O3_Level,O3_Class,Offense4,O4_Level,O4_Class,Offense_5,O5_Level,O5_Class,O6-code,O6_Offense,O7-code    ,O8-code,O9-code,O10-code,Source
+20-030144, 6/8/2020,Arrest,1360BLK Thorpe Ln,Y,Community Initiated (CFS),Other Non-Citable Offenses,Arrested for PI as well,H,W,H,M,36,35-44,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,M,C,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,2Q2020
+20-030416, 6/9/2020,Arrest,900BLK Sagewood St,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,F,20,18-24,San Marcos,A,On-View Arrest,ASSAULT CAUSES BODILY INJURY FAMILY VIOL,M,A,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,2Q2020
+20-029458, 6/5/2020,Arrest,100BLK N LBJ Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,20,18-24,San Marcos,A,On-View Arrest,EVADING ARREST DETENTION,M,A,DOC - FIGHTING,M,C,Misrepresentation of Age By A Minor,M,C,,,,,,,,,,,,,2Q2020
+20-032908, 6/23/2020,Arrest,1000BLK Hwy 80,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,29,25-34,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,M,B,Public Intoxication - Other Substance,M,C,,,,,,,,,,,,,,,,2Q2020
+20-028555, 5/31/2020,Arrest,1800BLK River Rd,Y,Violation of Law,No Hays County Connection,,H,W,H,M,20,18-24,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-028694, 6/1/2020,Citation Issued,800BLK S Guadalupe St,Y,Community Initiated (CFS),,,B,B,N,F,36,35-44,San Marcos,C,Summoned/Cited,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-028696, 6/1/2020,Citation Issued,100BLK Jackson Ln,Y,Violation of Law,,,H,W,H,M,28,25-34,San Marcos,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-029287, 6/4/2020,Citation Issued,600BLK Hopkins St,Y,Moving Traffic Violation,,Cited and Released,B,B,N,M,27,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-029421, 6/4/2020,Citation Issued,1600BLK IH 35,Y,Moving Traffic Violation,,DWLI,H,W,H,M,28,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-029520, 6/5/2020,Citation Issued,400BLK Fredericksburg,Y,Violation of Law,,,B,B,N,M,20,18-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-029891, 6/6/2020,Citation Issued,200BLK University Dr,Y,Suspicious Circumstances,,,W,W,N,F,21,18-24,Austin,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-030391, 6/9/2020,Citation Issued,700BLK E Hopkins St,Y,Community Initiated (CFS),,Cite and Released (Citation No. 3032),W,W,N,M,30,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-030426, 6/9/2020,Citation Issued,1000BLK Hwy 80,Y,Violation of Law,,,B,B,N,F,20,18-24,Huntsville,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-030426, 6/9/2020,Citation Issued,1000BLK Hwy 80,Y,Violation of Law,,,W,W,N,F,20,18-24,Huntsville,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-030652, 6/11/2020,Arrest,Aquarena Springs Dr/W Access Rd,Y,Community Initiated (CFS),No Hays County Connection,Subject Lived in Seguin,W,W,N,M,19,18-24,San Marcos,A,On-View Arrest,Driving Under Influence of Alcohol - Minor,M,C,,,,,,,,,,,,,,,,,,,2Q2020
+20-030733, 6/11/2020,Citation Issued,1000BLK Hwy 80,Y,Community Initiated (CFS),,,B,B,N,F,21,18-24,Saginaw,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-031041, 6/13/2020,Citation Issued,W Hopkins St/N Bishop St,Y,Moving Traffic Violation,,,H,W,H,M,38,35-44,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-032838, 6/23/2020,Citation Issued,1000BLK Hwy 80,Y,Violation of Law,,Citation issued,W,W,N,F,38,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-033145, 6/25/2020,Citation Issued,1600BLK Aquarena Springs Dr,Y,Violation of Law,,,H,W,H,M,19,18-24,San Marcos,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-033607, 6/27/2020,Citation Issued,208 NB Mile Marker,Y,Moving Traffic Violation,,Cited and released (#3033),H,W,H,M,29,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,2Q2020
+20-034043, 6/30/2020,Citation Issued,1000BLK Hwy 80,Y,Community Initiated (CFS),,,H,W,H,F,18,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-034043, 6/30/2020,Citation Issued,1000BLK Hwy 80,Y,Community Initiated (CFS),,,H,W,H,F,18,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2020
+20-051541,9/30/20,Arrest,1200BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,Was in conjunction with UUMV (stolen license plates on stolen car),B,B,N,M,34,25-34,Round Rock,A,On-View Arrest,RESIST ARREST SEARCH OR TRANSPORT,M,A,UNAUTH USE OF VEHICLE,F,,Theft under $100,M,C,,,,,,,,,,,,,3Q2020
+20-050588,9/25/20,Arrest,200BLK S Mitchell Ave,Y,Moving Traffic Violation,Other Non-Citable Offenses,Interfered with public duties,W,W,N,M,54,45-54,San Marcos,A,On-View Arrest,INTERFER W/PUBLIC DUTIES,M,B,Warrant Arrest,M,C,Open Container,,,,,,,,,,,,,,,3Q2020
+20-050256,9/24/20,Arrest,200BLK E Access Rd,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,M,37,35-44,Maxwell,A,On-View Arrest,DWLI,M,B,Warrant Arrest,,,,,,,,,,,,,,,,,,3Q2020
+20-049864,9/22/20,Arrest,200BLK  Cotter Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,21,18-24,Houston,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,ASSAULT FAM/HOUSE MEM IMPEDE BREATH/CIRC,F,,,,,,,,,,,,,,,,,3Q2020
+20-049716,9/21/20,Arrest,900BLK N IH 35 ,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,H,W,H,M,28,25-34,New Braunfels,A,On-View Arrest,MAN DEL CS PG 1 >=1G<4G,,,UNL POSS FIREARM BY FELON,,,MAN DEL CS PG 3/4 <28G,F,S,POSS MARIJ <2OZ,M,B,POSS CS PG 1A <20AU,F,S,,,,,,,3Q2020
+20-049579,9/20/20,Arrest,1600BLK N IH 35 ,Y,Violation of Law,Other Non-Citable Offenses,,B,B,N,M,26,25-34,San Marcos,A,On-View Arrest,Fail to ID,M,C,POSS MARIJ <2OZ,M,B,,F,,,M,A,Poss of Drug Paraphernalia - Pipe,,,,,,,,,3Q2020
+20-049317,9/18/20,Arrest,2900BLK  Hunter Rd,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,21,18-24,Lockhart,A,On-View Arrest,POSS CS PG 3 < 28G,,,POSS MARIJ <2OZ,,,RESIST ARREST SEARCH OR TRANSPORT,,,,,,,,,,,,,,,3Q2020
+20-048401,9/13/20,Arrest,900BLK N IH 35 ,Y,Suspicious Circumstances,Other Non-Citable Offenses,,H,W,H,M,36,35-44,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,F,,Poss of Drug Paraphernalia - Pipe,M,C,,,,,,,,,,,,,,,,3Q2020
+20-047988,9/12/20,Arrest,400BLK N Comanche St,Y,Community Initiated (CFS),Identity,Failed to identify properly,W,W,N,M,21,18-24,San Marcos,A,On-View Arrest,RESIST ARREST SEARCH OR TRANSPORT,M,A,Noise Host Responsibility -Local Ordinance,M,C,,,,,,,,,,,,,,,,3Q2020
+20-047365,9/8/20,Arrest,1500BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),No Hays County Connection,,B,B,N,F,20,18-24,Waco,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,Assault Physical Contact,,,,,,,,,,,,,,,,,,3Q2020
+20-046627,9/5/20,,600BLK  Wonder World Dr,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,POCS,H,W,H,M,23,18-24,San Antonio,A,On-View Arrest,POSS CS PG 1 <1G,F,,POSS CS PG 3 < 28G,M,A,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,3Q2020
+20-046483,9/4/20,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,28,25-34,San Marcos,A,On-View Arrest,CRIMINAL TRESPASS,,,Theft under $100,,,,,,,,,,,,,,,,,,3Q2020
+20-045001,8/28/20,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,No local physical address (Out of state DL)  / Additional non citable charge,W,W,N,M,54,45-54,San Marcos,A,On-View Arrest,RESIST ARREST SEARCH OR TRANSPORT,M,A,Theft Prop >=$100<$750,M,A,,,,,,,,,,,,,,,,3Q2020
+20-044549,8/26/20,Arrest,400BLK N Comanche St,Y,Violation of Law,Imminent Danger,Subject harras comp/ felt if left on scene the situation could manifest into a higher crim. offense,W,W,N,M,52,45-54,,A,On-View Arrest,"Criminal Mischief >=$750<$2,500",,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043929,8/22/20,Arrest,100BLK N LBJ Dr,Y,Violation of Law,Imminent Danger,Subject harras comp/ felt if left on scene the situation could manifest into a higher crim. offense,W,W,N,M,52,45-54,,A,On-View Arrest,Instanter,M,C,,,,,,,,,,,,,,,,,,,3Q2020
+20-044042,8/22/20,Arrest,1600BLK S IH 35 ,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,35,35-44,Buda,A,On-View Arrest,DRIVING WHILE INTOXICATED/OPEN ALCH CONT,M,B,POSS MARIJ <2OZ,M,B,Unl Carrying Weapon,M,A,,,,,,,,,,,,,3Q2020
+20-042243,8/13/20,Arrest,100BLK  West Ave,Y,Suspicious Circumstances,Imminent Danger,"Was under influence of narcotics to the point where they impaired his judgement. Attempted to get into the wrong apartment by climbing the balcony, answered the door with a firearm after he just invited that person up to his apartment.",W,W,N,M,25,25-34,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-041926,8/12/20,Arrest,900BLK W Wonder World Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,POCS,W,W,N,F,38,35-44,Austin,A,On-View Arrest,POSS CS PG 1 >=4G<200G,F,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,3Q2020
+20-040887,8/6/20,Arrest,200BLK E Access Rd,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,50,45-54,Austin,A,On-View Arrest,DRIVING WHILE INTOXICATED,M,B,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,3Q2020
+20-040053,8/1/20,Arrest,200BLK S Mile Marker ,Y,Vehicle Traffic Violation,No Hays County Connection,,H,W,H,M,51,45-54,Grand Prairie,A,On-View Arrest,DWLI,M,B,Warrant Arrest,M,B,,,,,,,,,,,,,,,,3Q2020
+20-040018,8/1/20,Arrest,200BLK  Dylan Dr,Y,Pre Existing Knowledge,Arrest Warrant,,H,W,H,M,33,25-34,San Marcos,A,On-View Arrest,POSS CS PG 2 < 1G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2020
+20-039100,7/27/20,Arrest,River Rd/E Access Rd,Y,Vehicle Traffic Violation,Arrest Warrant,,H,W,H,M,17,<18,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038493,7/24/20,Arrest,N Mitchell Ave/Belvin St,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,POM and UCW,W,W,N,M,31,25-34,Martindale,A,On-View Arrest,POSS MARIJ >2OZ<=4OZ,M,A,Unl Carrying Weapon,M,A,,,,,,,,,,,,,,,,3Q2020
+20-038510,7/24/20,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,Actor had no connection to Hays County.,B,B,N,M,39,35-44,Austin,A,On-View Arrest,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-038588,7/24/20,Arrest,1000BLK  Hackberry St,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,19,18-24,San Marcos,A,On-View Arrest,ASSAULT PUBLIC SERVANT,F,,POSS MARIJ <2OZ,M,B,Warrant Arrest,,,RESIST ARREST SEARCH OR TRANSPORT,M,A,,,,,,,,,,3Q2020
+20-038216,7/23/20,Arrest,900BLK  Hwy 80 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,charged with UCW handgun in vehicle,H,W,H,M,17,<18,Maxwell,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2020
+20-038340,7/23/20,Arrest,700BLK  Barnes Dr,Y,Violation of Law,No Hays County Connection,"Multiple reasons for no cite, nonresident, other noncite charge (resisting), amount over citable amount ($529)",H,W,H,F,35,35-44,San Antonio,A,On-View Arrest,Theft Prop >=$100<$750,M,B,RESIST ARREST SEARCH OR TRANSPORT,M,A,Unlawful Use of Crim Instrument,M,C,Open Container,,,,,,,,,,,,3Q2020
+20-037849,7/21/20,Arrest,200BLK S Mile Marker ,Y,Violation of Law,Other Non-Citable Offenses,Not a resident of Hays County,H,W,H,F,37,35-44,Austin,A,On-View Arrest,DWLI,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-037467,7/19/20,Arrest,4400BLK  Post Rd,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,F,21,18-24,Round Rock,A,On-View Arrest,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-034220,7/1/20,Arrest,1000BLK  Hackberry St,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,18,18-24,San Marcos,A,On-View Arrest,RESIST ARREST SEARCH OR TRANSPORT,M,A,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,3Q2020
+20-034607,7/3/20,Arrest,1700BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,F,19,18-24,San Marcos,A,On-View Arrest,Driving Under Influence of Alcohol - Minor,M,C,POSS CS PG 2 < 1G,F,,,,,,,,,,,,,,,,,3Q2020
+20-034642,7/3/20,Arrest,700BLK E Hopkins St,Y,Violation of Law,Other Non-Citable Offenses,Burglary of Building (20-34655),H,W,H,M,23,18-24,San Marcos,A,On-View Arrest,"Criminal Mischief >=$750<$2,500",M,A,,,,,,,,,,,,,,,,,,,3Q2020
+20-036749,7/14/20,Arrest,Cheatham St/E Hopkins St,Y,Moving Traffic Violation,No Hays County Connection,Keller is an Austinite.,W,W,N,M,44,35-44,Austin,A,On-View Arrest,DWLI,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-036191,7/11/20,Detention Juv,Wonder World Dr/Sadler Dr,Y,Moving Traffic Violation,Juvenile,,H,W,H,M,17,<18,Maxwell,J,On-View Arrest,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-035275,7/7/20,Arrest,Patton St/Roosevelt St,Y,Community Initiated (CFS),Imminent Danger,Charge changed while at the jail. Family wanted individual removed from area,H,W,H,M,20,18-24,San Marcos,A,On-View Arrest,Driving Under Influence of Alcohol - Minor,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-051203,9/29/20,Citation Issued,S Guadalupe St/W MLK Dr,Y,Vehicle Traffic Violation,,,W,W,N,M,18,18-24,Helotes,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-051283,9/29/20,Citation Issued,200BLK S C M Allen Pkwy,Y,Community Initiated (CFS),,Not arrested,H,W,H,M,29,25-34,Bertram,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-051036,9/28/20,Citation Issued,500BLK  Craddock Ave,Y,Community Initiated (CFS),,Not arrested,W,W,N,M,21,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-050867,9/27/20,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,Not arrested,H,W,H,M,22,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-050865,9/27/20,Citation Issued,400BLK N Fredericksburg St,Y,Community Initiated (CFS),,Not arrested,B,B,N,M,22,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-050325,9/24/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Not arrested,W,W,N,M,29,25-34,Wimberley,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049554,9/20/20,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,,H,W,H,F,19,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049232,9/18/20,Citation Issued,1400BLK  Highland Dr,Y,Community Initiated (CFS),,Loud Music in Residence,W,W,N,M,26,25-34,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049319,9/18/20,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,,B,B,N,M,26,25-34,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049075,9/17/20,Citation Issued,200BLK N IH 35 ,Y,Vehicle Traffic Violation,,marijuana destroyed without charge,H,W,H,M,32,25-34,Laredo,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049066,9/17/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Not arrested,H,W,H,F,19,18-24,New Braunfels,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049115,9/17/20,Citation Issued,200BLK  Telluride St,Y,Community Initiated (CFS),,,W,W,N,F,18,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-049115,9/17/20,Citation Issued,200BLK  Telluride St,Y,Community Initiated (CFS),,,W,W,N,F,18,18-24,Austin,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-048827,9/16/20,Citation Issued,500BLK W Hutchison St,Y,Violation of Law,,,W,W,N,M,32,25-34,San Marcos,C,Summoned/Cited,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-048694,9/15/20,Citation Issued,800BLK S Guadalupe St,Y,Community Initiated (CFS),,,B,B,N,M,38,35-44,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-048046,9/12/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,56,55-64,Georgetown,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-048046,9/12/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,38,35-44,Georgetown,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047834,9/11/20,Citation Issued,4000BLK S IH 35 ,Y,Community Initiated (CFS),,,B,B,N,F,21,18-24,New Braunfels,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047758,9/11/20,Citation Issued,900BLK N IH 35 ,Y,Violation of Law,,released with citation,H,W,H,M,31,25-34,San Marcos,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047887,9/11/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Theft over $100,W,W,N,F,18,18-24,Georgetown,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047887,9/11/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Theft over $100,W,W,N,F,18,18-24,Austin,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047732,9/10/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,H,W,H,M,19,18-24,San Marcos,C,Summoned/Cited,Graffiti Pecuniary Loss >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-047732,9/10/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,H,W,H,M,19,18-24,San Marcos,C,Summoned/Cited,Graffiti Pecuniary Loss >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-047732,9/10/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,H,W,H,M,19,18-24,San Marcos,C,Summoned/Cited,Graffiti Pecuniary Loss >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-047732,9/10/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,H,W,H,M,20,18-24,San Marcos,C,Summoned/Cited,Graffiti Pecuniary Loss >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-047377,9/8/20,Citation Issued,200BLK W Sessom Dr,Y,Community Initiated (CFS),,,B,B,N,M,20,18-24,Austin,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-047295,9/8/20,Citation Issued,900BLK  Hwy 80 ,Y,Violation of Law,,Field Release Citation,W,W,N,F,28,25-34,Kyle,C,Summoned/Cited,Theft Prop <$100 W/prev Convic,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-047365,9/8/20,Arrest,1500BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),,,B,B,N,F,19,18-24,San Marcos,C,Summoned/Cited,Assault Physical Contact,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046778,9/6/20,Citation Issued,Patton St/Stillwell St,Y,Moving Traffic Violation,,,H,W,H,F,20,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046777,9/6/20,Citation Issued,2000BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),,,H,W,H,F,22,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046616,9/5/20,Arrest,1600BLK N IH 35 ,Y,Violation of Law,,,W,W,N,M,51,45-54,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046576,9/5/20,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,,H,W,H,M,22,18-24,Brownsville,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046382,9/4/20,Citation Issued,200BLK  SB ,Y,Community Initiated (CFS),,,W,W,N,M,22,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046311,9/3/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,22,18-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046311,9/3/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,22,18-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046277,9/3/20,Citation Issued,500BLK  Mary Ln,Y,Moving Traffic Violation,,,H,W,H,M,18,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046368,9/3/20,Citation Issued,100BLK  Canyon Frk,Y,Community Initiated (CFS),,,W,W,N,M,21,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046125,9/2/20,Citation Issued,100BLK  Uhland Rd,Y,Community Initiated (CFS),,,H,W,H,M,18,18-24,Kyle,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-046125,9/2/20,Citation Issued,100BLK  Uhland Rd,Y,Community Initiated (CFS),,,W,W,N,M,23,18-24,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045876,9/1/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Released with citation,B,B,N,M,20,18-24,Glenn Heights,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045876,9/1/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Released with citation,B,B,N,M,20,18-24,Cedar Hill,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045736,8/31/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,23,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045692,8/31/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,released with citation,W,W,N,M,18,18-24,Plano,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045692,8/31/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,released with citation,W,W,N,M,18,18-24,Houston,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045174,8/29/20,Citation Issued,1800BLK  Old Ranch Road 12 ,Y,Violation of Law,,,H,W,H,M,30,25-34,San Marcos,C,Summoned/Cited,Assault - Family Violence,,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,3Q2020
+20-045109,8/28/20,Citation Issued,River Ridge Pkwy/W Access Rd,Y,Moving Traffic Violation,,,H,W,H,M,18,18-24,Round Rock,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-045082,8/28/20,Citation Issued,200BLK  SB ,Y,Community Initiated (CFS),,,W,W,N,M,32,25-34,Austin,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-044704,8/26/20,Citation Issued,200BLK N IH 35 ,Y,Community Initiated (CFS),,,W,W,N,M,56,55-64,New Braunfels,C,Summoned/Cited,CONSUMPTION RESTRICTED TO PREMISES,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-044227,8/24/20,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Vehicle Traffic Violation,,released with citation for PODP,W,W,N,F,24,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-044203,8/24/20,Citation Issued,1500BLK S IH 35 ,Y,Moving Traffic Violation,,,H,W,H,F,26,25-34,Plano,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-044091,8/23/20,Citation Issued,EXIT 204B SB,Y,Moving Traffic Violation,,,H,W,H,F,28,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043872,8/22/20,Citation Issued,100BLK  Concho St,Y,Community Initiated (CFS),,,H,W,H,M,18,18-24,Cibolo,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043872,8/22/20,Citation Issued,100BLK  Concho St,Y,Community Initiated (CFS),,,B,B,N,M,18,18-24,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043680,8/21/20,Citation Issued,600BLK E Hopkins St,Y,Vehicle Traffic Violation,,,B,B,N,M,43,35-44,Kyle,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043672,8/21/20,Citation Issued,600BLK E Hopkins St,Y,Suspicious Circumstances,,marijuana destroyed without charge,W,W,N,M,20,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043478,8/20/20,Citation Issued,900BLK  Hwy 80 ,Y,Suspicious Circumstances,,marijuana destroyed without charge,W,W,N,M,25,25-34,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043205,8/18/20,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,24,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043205,8/18/20,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,21,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043185,8/18/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,20,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043049,8/17/20,Citation Issued,N Bishop St/Franklin Dr,Y,Moving Traffic Violation,,,W,W,N,M,22,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-043040,8/17/20,Citation Issued,E Access Rd/Hwy 80,Y,Community Initiated (CFS),,,H,W,H,F,35,35-44,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-042790,8/16/20,Citation Issued,200BLK  Moore St,Y,Violation of Law,,,W,W,N,M,52,45-54,,C,Summoned/Cited,DOC - Gesture,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-042850,8/16/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,21,18-24,Katy,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-042650,8/15/20,Citation Issued,1000BLK  Hwy 123 ,Y,Vehicle Traffic Violation,,,B,B,N,F,27,25-34,Killeen,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-042547,8/15/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,19,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-042547,8/15/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,19,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-042044,8/12/20,Citation Issued,200BLK  NB ,Y,Community Initiated (CFS),,Not arrested,W,W,N,M,17,<18,New Braunfels,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-041876,8/11/20,Citation Issued,900BLK  Hwy 80 ,Y,Moving Traffic Violation,,"No arrest, field release issued",B,B,N,M,23,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-041674,8/11/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,H,W,H,M,21,18-24,Edinburg,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-041666,8/11/20,Citation Issued,Hwy 123/Broadway St,Y,Community Initiated (CFS),,,W,W,N,M,20,18-24,Port Arthur,C,Summoned/Cited,Driving Under Influence of Alcohol - Minor,,,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,3Q2020
+20-041297,8/8/20,Citation Issued,1200BLK  Hwy 80 ,Y,Moving Traffic Violation,,,H,W,H,M,24,18-24,Kyle,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-041198,8/8/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,27,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-041198,8/8/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,25,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-041278,8/8/20,Citation Issued,100BLK  Jackson Ln,Y,Vehicle Traffic Violation,,,H,W,H,M,22,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-041278,8/8/20,Citation Issued,100BLK  Jackson Ln,Y,Vehicle Traffic Violation,,,H,W,H,M,21,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-041041,8/7/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,citation issued and released,W,W,N,M,29,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-040961,8/7/20,Citation Issued,800BLK N IH 35 ,Y,Suspicious Circumstances,,,B,B,N,M,34,25-34,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-040903,8/6/20,Citation Issued,100BLK  Linda Dr,Y,Community Initiated (CFS),,,H,W,H,M,23,18-24,Kyle,C,Summoned/Cited,DWLI,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-040587,8/5/20,Citation Issued,E Access Rd/Davis Ln,Y,Vehicle Traffic Violation,,,H,W,H,M,43,35-44,San Marcos,C,Summoned/Cited,DWLI,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-040733,8/5/20,Report,100BLK  Long St,Y,Community Initiated (CFS),,,B,B,N,M,24,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,Open Container,,,,,,,,,,,,,,,,,,3Q2020
+20-040520,8/4/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,25,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-040397,8/3/20,Citation Issued,700BLK E Hopkins St,Y,Moving Traffic Violation,,,B,B,N,M,23,18-24,Seguin,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-040375,8/3/20,Citation Issued,1800BLK  Post Rd,Y,Community Initiated (CFS),,Not arrested,W,W,N,M,30,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039873,8/1/20,Citation Issued,W Hopkins St/N Comanche St,Y,Moving Traffic Violation,,,H,W,H,M,23,18-24,San Marcos,C,Summoned/Cited,DWLI,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-039657,7/30/20,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Vehicle Traffic Violation,,,H,W,H,M,24,18-24,Eagle Pass,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039510,7/29/20,Citation Issued,200BLK N IH 35 ,Y,,,,H,W,H,F,22,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039341,7/29/20,Report,800BLK N LBJ Dr,Y,Community Initiated (CFS),,,W,W,N,M,24,18-24,Spring,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039341,7/29/20,Report,800BLK N LBJ Dr,Y,Community Initiated (CFS),,,W,W,N,F,23,18-24,Spring,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039123,7/27/20,Citation Issued,200BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,21,18-24,Buda,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-039123,7/27/20,Citation Issued,200BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,21,18-24,Buda,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-038803,7/26/20,Citation Issued,1100BLK  Avalon Ave,Y,Community Initiated (CFS),,,W,W,N,M,23,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038620,7/25/20,Citation Issued,100BLK  Linda Dr,Y,Vehicle Traffic Violation,,,H,W,H,M,18,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038707,7/25/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,38,35-44,Austin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038440,7/24/20,Citation Issued,1700BLK N IH 35 ,Y,Pre Existing Knowledge,,,H,W,H,M,25,25-34,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038334,7/23/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,57,55-64,Austin,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-038176,7/22/20,Citation Issued,700BLK E Hopkins St,Y,Moving Traffic Violation,,No arrest Field Release issued,H,W,H,M,18,18-24,San Marcos,C,Summoned/Cited,POSS MARIJ >2OZ<=4OZ,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037893,7/21/20,Citation Issued,1500BLK  Belvin St,Y,Moving Traffic Violation,,,W,W,N,M,18,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037893,7/21/20,Citation Issued,1500BLK  Belvin St,Y,Moving Traffic Violation,,,W,W,N,M,17,<18,Seguin,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037863,7/21/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,59,55-64,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037730,7/20/20,Citation Issued,200BLK  SB ,Y,Moving Traffic Violation,,,B,B,N,M,20,18-24,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037577,7/19/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,21,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-037447,7/19/20,Citation Issued,1300BLK  Wonder World Dr,Y,Community Initiated (CFS),,,H,W,H,M,20,18-24,Cedar Park,C,Summoned/Cited,Minor in Possession - Alcohol,,,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,3Q2020
+20-037440,7/18/20,Citation Issued,600BLK E Hopkins St,Y,Suspicious Circumstances,,,W,W,N,M,20,18-24,Kyle,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-034404,7/2/20,Report,200BLK  SB ,Y,Community Initiated (CFS),,Cited and Released,H,W,H,M,30,25-34,San Marcos,C,Summoned/Cited,DWLI,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-800362,7/17/20,Report,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Not arrested,A,A,N,M,21,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-800362,7/17/20,Report,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Not arrested,A,A,N,F,21,18-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-036768,7/14/20,Citation Issued,1300BLK N IH 35 ,Y,Suspicious Circumstances,,,W,W,N,M,31,25-34,Kyle,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-036694,7/14/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,30,25-34,New Braunfels,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-036592,7/13/20,Citation Issued,Old Ranch Road 12/Franklin Dr,Y,Moving Traffic Violation,,Issued field release citation,B,B,N,M,25,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,3Q2020
+20-036189,7/11/20,Report,2300BLK S IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,21,18-24,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-034734,7/4/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,21,18-24,Maxwell,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-036017,7/11/20,Citation Issued,1900BLK N IH 35 ,Y,Moving Traffic Violation,,,W,W,N,M,20,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-036017,7/11/20,Citation Issued,1900BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,20,18-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-035757,7/9/20,Citation Issued,200BLK  Springtown Way,Y,Community Initiated (CFS),,marijuana destroyed with no charge,W,W,U,M,17,<18,Buda,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-034789,7/4/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,23,18-24,Granite Shoals,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-035757,7/9/20,Citation Issued,200BLK  Springtown Way,Y,Community Initiated (CFS),,marijuana destroyed with no charge,H,W,H,M,17,<18,Buda,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-035757,7/9/20,Citation Issued,200BLK  Springtown Way,Y,Community Initiated (CFS),,marijuana destroyed with no charge,W,W,U,F,18,18-24,Kyle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-035796,7/9/20,Citation Issued,2500BLK  Great Oaks Dr,Y,Community Initiated (CFS),,,H,W,H,F,19,18-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-035682,7/9/20,Citation Issued,Blanco St/W Hopkins St,Y,Community Initiated (CFS),,,H,W,H,M,39,35-44,San Marcos,C,Summoned/Cited,DOC - Language,,,,,,,,,,,,,,,,,,,,,3Q2020
+20-050628,9/26/20,Arrest,100BLK S Guadalupe St,Y,Violation of Law,Arrest Warrant,PI not eligible & outstanding warrant,H,W,H,M,27,25-34,Austin,A,Warrant Arrest,Public Intoxication - Alcohol,,,Warrant Arrest,M,C,,,,,,,,,,,,,,,,3Q2020
+20-042907,8/16/20,Arrest,100BLK S LBJ Dr,Y,Moving Traffic Violation,Arrest Warrant,Subject had arrest warrant out of Comal County,B,B,N,M,23,18-24,Canyon Lake,A,Warrant Arrest,POSS MARIJ <2OZ,M,B,Warrant Arrest,F,,,,,,,,,,,,,,,,,3Q2020
+20-051716,10/1/20,Arrest,200BLK S Mile Marker ,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,B,B,N,M,,25-34,San Antonio,A,On-View Arrest,Unl Carrying Weapon,M,A,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,4Q2020
+20-051702,10/1/20,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,In possession of POCS and Stolen Credit Cards,W,W,N,M,,35-44,,A,On-View Arrest,CREDIT CARD OR DEBIT CARD ABUSE,,,Theft Prop <$100 W/prev Convic,M,B,POSS CS PG 1 >=4G<200G,F,,FORGERY GOVT INSTRUMENT/MONEY/SECURITIES,F,,,,,,,,,,,4Q2020
+20-051753,10/2/20,Citation Issued,900BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-051940,10/2/20,Citation Issued,700BLK  River Rd,Y,Community Initiated (CFS),,,H,W,H,M,,21-24,Brady,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-051922,10/2/20,Citation Issued,1400BLK W Hopkins St,Y,Moving Traffic Violation,,,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-052754,10/7/20,Arrest,1500BLK S IH 35 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,POCS PG 1 <1g,H,W,H,M,,21-24,Austin,A,On-View Arrest,POSS MARIJ <2OZ,M,B,POSS CS PG 1 <1G,F,,,,,,,,,,,,,,,,,4Q2020
+20-052858,10/7/20,Arrest,4000BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,,25-34,Spring Valley,A,On-View Arrest,Fail To Identify Fugitive Intent Give False Info,M,A,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2020
+20-052991,10/8/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Field Release Citation for Theft less than $750.00,H,W,H,F,,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-053091,10/9/20,Arrest,4000BLK S IH 35 ,Y,Community Initiated (CFS),No Hays County Connection,Original Arrest was for Warrant that could not be confirmed due to electronic problems,W,W,N,M,,45-54,Lago Vista,A,On-View Arrest,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-053428,10/10/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053449,10/10/20,Arrest,W San Antonio St/Guadalupe St,Y,Vehicle Traffic Violation,No Hays County Connection,Arrestee lives/works in Caldwell County,W,W,N,M,,21-24,Red Rock,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053449,10/10/20,Arrest,W San Antonio St/Guadalupe St,Y,Vehicle Traffic Violation,No Hays County Connection,Arrestee lives/works in Caldwell County,W,W,N,M,,21-24,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-053505,10/10/20,Arrest,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,M,,25-34,San Marcos,A,On-View Arrest,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053653,10/11/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,,17-20,Dale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053653,10/11/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,,17-20,Dale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053527,10/11/20,Arrest,100BLK E Hopkins St,Y,Violation of Law,Imminent Danger,,H,W,H,F,,21-24,Slidell,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-053518,10/11/20,Multiple Arrest,1100BLK  Leah Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,Arrested for Assault Physical Contact Family Violence,B,B,N,M,,25-34,San Marcos,A,On-View Arrest,Assault - Family Violence,M,C,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,4Q2020
+20-053527,10/11/20,Arrest,100BLK E Hopkins St,Y,Violation of Law,Imminent Danger,,H,W,H,F,,25-34,New Braunfels,A,On-View Arrest,Public Intoxication - Alcohol,,,DOC - Fighting,,,,,,,,,,,,,,,,,,4Q2020
+20-053946,10/13/20,Arrest,2100BLK S IH 35 ,Y,Moving Traffic Violation,,POM and DWLI,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,4Q2020
+20-054361,10/15/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-054454,10/16/20,Citation Issued,1000BLK  Academy St,Y,Moving Traffic Violation,,,B,B,N,M,,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-054579,10/16/20,Report,Cheatham St/Fields,Y,Vehicle Traffic Violation,,,B,B,N,M,,35-44,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-054567,10/16/20,Citation Issued,1400BLK  Leah Ave,Y,Community Initiated (CFS),,CFS,H,W,H,F,,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-054930,10/18/20,Cancelled,1600BLK N IH 35 ,Y,Violation of Law,,,B,B,N,M,,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-055024,10/19/20,Report,400BLK N Fredericksburg St,Y,Community Initiated (CFS),,,B,B,N,F,,25-34,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-055229,10/20/20,Citation Issued,500BLK E Hopkins St,Y,Moving Traffic Violation,,,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-055227,10/20/20,Citation Issued,500BLK  Springtown Way,Y,Vehicle Traffic Violation,,,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-055227,10/20/20,Citation Issued,500BLK  Springtown Way,Y,Vehicle Traffic Violation,,,H,W,H,M,,17-20,Kyle,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-055227,10/20/20,Citation Issued,500BLK  Springtown Way,Y,Vehicle Traffic Violation,,,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-055227,10/20/20,Citation Issued,500BLK  Springtown Way,Y,Vehicle Traffic Violation,,,H,W,H,M,,17-20,Martindale,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-055463,10/21/20,Citation Issued,1100BLK  Wonder World Dr,Y,Violation of Law,,Cited,W,W,N,M,,45-54,San Marcos,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-055789,10/23/20,Citation Issued,W MLK Dr/S Guadalupe St,Y,Moving Traffic Violation,,,H,W,H,M,,25-34,San Antonio,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-055793,10/23/20,Arrest,Thorpe Ln/Aquarena Springs Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,arrested for possession of firearm by felon,W,W,N,M,,25-34,New Braunfels,A,On-View Arrest,Unl Poss Firearm By Felon,F,,POSS MARIJ <2OZ,M,B,0,M,A,,,,,,,,,,,,,4Q2020
+20-055809,10/23/20,Arrest,Conway Dr/Clair Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,,35-44,San Marcos,A,On-View Arrest,Public Intoxication - Other Substance,,,Theft under $100,,,,,,,,,,,,,,,,,,4Q2020
+20-056434,10/25/20,Citation Issued,1600BLK  Girard Ave,Y,Moving Traffic Violation,,,W,W,N,M,,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-056442,10/25/20,Multiple Arrest,700BLK N IH 35 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,DWI/Federal Warrant/Fail to ID,H,W,H,M,,35-44,,A,On-View Arrest,DRIVING WHILE INTOXICATED BAC >= 0.15,,,FAIL TO IDENTIFY FUGITIVE INTENT GIVE FA,M,A,0,,,,,,,,,,,,,,,4Q2020
+20-056555,10/26/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-056587,10/26/20,Cond Citation,1500BLK  Sadler Dr,Y,Community Initiated (CFS),,Cited,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-056547,10/26/20,Arrest,3900BLK S IH 35 ,Y,Community Initiated (CFS),No Hays County Connection,From Houston,B,B,N,M,,21-24,Houston,A,On-View Arrest,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-056814,10/28/20,Arrest,200BLK S LBJ Dr,Y,Community Initiated (CFS),No Hays County Connection,,W,W,N,M,,21-24,Del Valle,A,On-View Arrest,Graffiti Pecuniary Loss >=$100<$750,M,B,Poss of Drug Paraphernalia - General,M,C,,,,,,,,,,,,,,,,4Q2020
+20-057168,10/30/20,Citation Issued,1500BLK E McCarty Ln,Y,Community Initiated (CFS),,,W,W,N,M,,21-24,San Marcos,C,Summoned/Cited,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-057339,10/30/20,Arrest,2100BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Was also PI,H,W,H,M,,21-24,San Antonio,A,On-View Arrest,Public Intoxication - Alcohol,M,C,Theft under $100,M,C,,,,,,,,,,,,,,,,4Q2020
+20-057761,11/1/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Cited and Released,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-057761,11/1/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Cited and Released,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,Theft under $100,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-057619,11/1/20,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,M,,21-24,Arlington,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-057678,11/1/20,Arrest,1100BLK N IH 35 ,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,,17-20,Austin,A,On-View Arrest,Public Intoxication - Alcohol,M,C,Poss of Drug Paraphernalia - General,M,C,,,,,,,,,,,,,,,,4Q2020
+20-057837,11/2/20,Arrest,300BLK S Stagecoach Trl,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,H,W,H,M,,17-20,San Marcos,A,On-View Arrest,MAN DEL CS PG 2 >=4G<400G,,,MAN DEL CS PG 3/4 <28G,,,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,4Q2020
+20-058070,11/3/20,Citation Issued,2200BLK S IH 35 ,Y,Community Initiated (CFS),,Theft of Property Value $300,W,W,N,M,,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058236,11/4/20,Citation Issued,E Hopkins St/W Access Rd,Y,Violation of Law,,,B,B,N,F,,25-34,Austin,C,Summoned/Cited,0,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058226,11/4/20,Citation Issued,Aquarena Springs Dr/E Access Rd,Y,Moving Traffic Violation,,Citation 0908,B,B,N,F,,25-34,San Antonio,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058240,11/4/20,Arrest,400BLK N IH 35 ,Y,Community Initiated (CFS),,,B,B,N,M,,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058236,11/4/20,Citation Issued,E Hopkins St/W Access Rd,Y,Violation of Law,,,B,B,N,F,,45-54,Austin,C,Summoned/Cited,0,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058501,11/5/20,Citation Issued,Linda Dr/Sherbarb St,Y,Vehicle Traffic Violation,,Field release citation 3377,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058487,11/5/20,Citation Issued,500BLK S Guadalupe St,Y,Moving Traffic Violation,,Field release citation #3376,H,W,H,M,,35-44,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058531,11/5/20,Arrest,1200BLK S IH 35 ,Y,Community Initiated (CFS),Arrest Warrant,,B,B,N,M,,25-34,New Braunfels,A,On-View Arrest,POSS MARIJ <2OZ,M,B,,M,C,,,,,,,,,,,,,,,,4Q2020
+20-058704,11/6/20,Citation Issued,400BLK N Comanche St,Y,Violation of Law,,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058704,11/6/20,Citation Issued,400BLK N Comanche St,Y,Violation of Law,,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058704,11/6/20,Citation Issued,400BLK N Comanche St,Y,Violation of Law,,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058733,11/6/20,Citation Issued,1600BLK  Post Rd,Y,Pre Existing Knowledge,,,B,B,N,M,,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058626,11/6/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,,35-44,San Marcos,C,Summoned/Cited,Theft under $100,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-058968,11/7/20,Citation Issued,1600BLK N IH 35 ,Y,Vehicle Traffic Violation,,,H,W,H,F,,17-20,Granite Shoals,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-058842,11/7/20,Report,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,cited and released for theft - warrant pending for Criminal Trespass,W,W,N,F,,35-44,Kyle,C,Summoned/Cited,Theft under $100,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-058974,11/8/20,Citation Issued,Aquarena Springs Dr/San Marcos Springs D,Y,Moving Traffic Violation,,,H,W,H,M,,25-34,Lockhart,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-059084,11/8/20,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,CFS,W,W,N,F,,35-44,Seguin,A,On-View Arrest,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-059084,11/8/20,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,CFS,W,W,N,M,,35-44,Seguin,A,On-View Arrest,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-059357,11/9/20,Citation Issued,1400BLK  Sadler Dr,Y,Pre Existing Knowledge,,,W,W,N,F,,21-24,New Braunfels,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-059212,11/9/20,Citation Issued,200BLK  NB ,Y,Moving Traffic Violation,,,H,W,H,M,,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-059245,11/9/20,Citation Issued,Craddock Ave/Old Ranch Road 12,Y,Violation of Law,,,H,W,H,M,,45-54,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-059678,11/12/20,Arrest,1000BLK  Rr 12 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,Arrest for DWI,W,W,N,M,,21-24,San Marcos,A,On-View Arrest,DRIVING WHILE INTOXICATED,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2020
+20-059946,11/13/20,Arrest,1000BLK  Wonder World Dr,Y,Moving Traffic Violation,,,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-060112,11/14/20,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-060464,11/15/20,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,,35-44,San Marcos,A,On-View Arrest,Public Intoxication - Other Substance,M,B,Theft under $100,M,C,,,,,,,,,,,,,,,,4Q2020
+20-060738,11/16/20,Citation Issued,400BLK  Riverside Dr,Y,Violation of Law,,,H,W,H,F,,17-20,San Marcos,C,Summoned/Cited,Purchase of Tobacco by Minor,,,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,4Q2020
+20-060738,11/16/20,Citation Issued,400BLK  Riverside Dr,Y,Violation of Law,,,H,W,H,M,,17-20,San Marcos,C,Summoned/Cited,Purchase of Tobacco by Minor,,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,4Q2020
+20-060740,11/16/20,Citation Issued,E Access Rd/Woodcrest St,Y,Moving Traffic Violation,,,B,B,N,M,,21-24,Seguin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-060583,11/16/20,Arrest,1900BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,POM <2oz,B,B,N,M,,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-060555,11/16/20,Report,1700BLK N IH 35 ,Y,Violation of Law,,,W,W,N,M,,35-44,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-060668,11/16/20,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,,45-54,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-060655,11/16/20,Arrest,E Access Rd/Hwy 123,Y,Community Initiated (CFS),Demand for Magistrate,Refused to sign citation and also continued to solicit in front of officers after citation was issued,B,B,N,M,,35-44,Elgin,A,On-View Arrest,Criminal Mischief >=$100<$750,M,C,RESIST ARREST SEARCH OR TRANSPORT,M,A,,,,,,,,,,,,,,,,4Q2020
+20-060631,11/16/20,Arrest,200BLK N LBJ Dr,Y,Community Initiated (CFS),Demand for Magistrate,Suspect refused to sign citation and also continued to violate law in front of officers,B,B,N,M,,35-44,Elgin,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,RESIST ARREST SEARCH OR TRANSPORT,,,,,,,,,,,,,,,,,,4Q2020
+20-060805,11/17/20,Citation Issued,Lancaster St/Craddock Ave,Y,Community Initiated (CFS),,cited - not arrested,W,W,N,M,,21-24,Del Valle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-060883,11/17/20,Report,100BLK  Hill Dr,Y,Violation of Law,,,W,W,N,M,,65+,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-060923,11/17/20,Multiple Arrest,1100BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,F,,25-34,San Marcos,A,On-View Arrest,CRIMINAL TRESPASS,M,,POSS CS PG 1 <1G,F,,,,,,,,,,,,,,,,,4Q2020
+20-060923,11/17/20,Multiple Arrest,1100BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,,35-44,San Marcos,A,On-View Arrest,CRIMINAL TRESPASS,M,,,,,,,,,,,,,,,,,,,,4Q2020
+20-061253,11/19/20,Citation Issued,200BLK S Mile Marker ,Y,Moving Traffic Violation,,,B,B,N,F,,35-44,Fort Worth,C,Summoned/Cited,Poss of Drug Paraphernalia - General,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-061266,11/19/20,Arrest,100BLK  Wonder World Dr,Y,Moving Traffic Violation,,,H,W,H,M,,45-54,San Marcos,A,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-061460,11/20/20,Citation Issued,200BLK N IH 35 ,Y,Moving Traffic Violation,,,B,B,N,M,,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-061460,11/20/20,Citation Issued,200BLK N IH 35 ,Y,Moving Traffic Violation,,,B,B,N,M,,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-061526,11/21/20,Citation Issued,Moon St/University Dr,Y,Moving Traffic Violation,,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-061581,11/21/20,Citation Issued,W Access Rd/Hwy 123,Y,Violation of Law,,,B,B,N,M,,45-54,Austin,C,Summoned/Cited,VIOCO Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-061528,11/21/20,Arrest,600BLK  Cheatham St,Y,Violation of Law,Demand for Magistrate,,W,W,N,M,,65+,San Marcos,A,On-View Arrest,0,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-061845,11/22/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,Theft under $100,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-061845,11/22/20,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-061828,11/22/20,Citation Issued,300BLK  Ellis St,Y,Violation of Law,,,W,W,N,M,,21-24,Del Valle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,0,,,,,,,,,,,,,,,,,,4Q2020
+20-061956,11/23/20,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,Theft was SJF (enhancement),W,W,N,M,,21-24,,A,On-View Arrest,"Theft Prop <$2,500  2/more Prev Conv",,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2020
+20-062783,11/28/20,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Arrest Warrant,20-62778 for further information on orginal call,H,W,H,M,,25-34,San Marcos,A,On-View Arrest,Theft under $100,M,C,,,,,,,,,,,,,,,,,,,4Q2020
+20-062814,11/28/20,Arrest,2100BLK S IH 35 ,Y,Vehicle Traffic Violation,No Hays County Connection,,W,W,N,M,,25-34,Spring Branch,A,On-View Arrest,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-063012,11/30/20,Citation Issued,N Guadalupe St/E Hopkins St,Y,Violation of Law,,,W,W,N,M,,17-20,Wimberley,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-063162,12/1/20,Citation Issued,EXIT 208 NB,Y,Community Initiated (CFS),,,B,B,N,M,,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-063291,12/1/20,Citation Issued,900BLK  Field St,Y,Vehicle Traffic Violation,,Field Release Citation issued,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-063284,12/1/20,Citation Issued,500BLK  Lindsey St,Y,Community Initiated (CFS),,,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-064617,12/8/20,Citation Issued,200BLK  SB ,Y,Violation of Law,,,B,B,N,M,,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065054,12/10/20,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,F,,25-34,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,M,B,POSS CS PG 1 <1G,F,,Unlawful Use of Crim Instrument,M,C,,,,,,,,,,,,,4Q2020
+20-065054,12/10/20,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,,25-34,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,M,B,CRIMINAL TRESPASS,M,B,,,,,,,,,,,,,,,,4Q2020
+20-065135,12/11/20,Citation Issued,800BLK  Chestnut St,Y,Community Initiated (CFS),,Issued Field Release Cit.,W,W,N,F,,17-20,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065105,12/11/20,Citation Issued,1600BLK N IH 35 ,Y,Moving Traffic Violation,,,W,W,N,F,,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065135,12/11/20,Citation Issued,800BLK  Chestnut St,Y,Community Initiated (CFS),,Issued Field Release Cit.,W,W,N,F,,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-065135,12/11/20,Citation Issued,800BLK  Chestnut St,Y,Community Initiated (CFS),,Issued Field Release Cit.,W,W,N,M,,21-24,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065135,12/11/20,Citation Issued,800BLK  Chestnut St,Y,Community Initiated (CFS),,Issued Field Release Cit.,W,W,N,M,,21-24,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065305,12/11/20,Arrest,200BLK  Springtown Way,Y,Community Initiated (CFS),Other Non-Citable Offenses,Arrested for PI. Search incident to arrest yielded in the finding of marijuana,W,W,N,M,,25-34,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,M,C,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,,,,4Q2020
+20-065123,12/11/20,Arrest,200BLK  Sb35 Ih,Y,Vehicle Traffic Violation,,,W,W,N,M,,25-34,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,M,B,DRIVING WHILE INTOXICATED,M,B,,,,,,,,,,,,,,,,4Q2020
+20-065762,12/14/20,Report,600BLK E Hopkins St,Y,Moving Traffic Violation,,Issued citation # 0788,H,W,H,M,,35-44,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-065771,12/14/20,Citation Issued,W Access Rd/Hwy 123,Y,Violation of Law,,,H,W,H,M,,45-54,Plainview,C,Summoned/Cited,Jaywalking-Cross Intersection Diagonally,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065890,12/15/20,Citation Issued,2200BLK S IH 35 ,Y,Pre Existing Knowledge,,,W,W,N,M,,45-54,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065874,12/15/20,Arrest,200BLK N Mile Marker ,Y,Pre Existing Knowledge,Arrest Warrant,,H,W,H,M,,25-34,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-065957,12/15/20,Arrest,2100BLK  Hwy 123 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,,45-54,,A,On-View Arrest,Theft under $100,M,C,Public Intoxication - Alcohol,M,C,,,,,,,,,,,,,,,,4Q2020
+20-066184,12/16/20,Arrest,2200BLK S IH 35 ,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,,45-54,,A,On-View Arrest,Theft under $100,M,C,Public Intoxication - Alcohol,M,C,,,,,,,,,,,,,,,,4Q2020
+20-066273,12/17/20,Multiple Arrest,200BLK  SB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,F,,17-20,New Braunfels,A,On-View Arrest,POSS CS PG 2 >= 4G<400G,F,,POSS CS PG 1 <1G,F,,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,4Q2020
+20-066273,12/17/20,Multiple Arrest,200BLK  SB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,F,,21-24,New Braunfels,A,On-View Arrest,POSS CS PG 1 <1G,F,,POSS CS PG 2 >= 4G<400G,F,,POSS MARIJ <2OZ,M,B,,,,,,,,,,,,,4Q2020
+20-066273,12/17/20,Multiple Arrest,200BLK  SB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,F,,21-24,New Braunfels,A,On-View Arrest,POSS CS PG 1 <1G,F,,POSS CS PG 2 >= 4G<400G,F,,POSS MARIJ <2OZ,M,B,Poss of Drug Paraphernalia - Container,,,Open Container,,,,,,,,,4Q2020
+20-066716,12/19/20,Citation Issued,500BLK  Barnes Dr,Y,Pre Existing Knowledge,,,B,B,N,M,,21-24,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-066575,12/19/20,Arrest,1100BLK  Thorpe Ln,Y,Vehicle Traffic Violation,Identity,"Lied about identity, did not have an ID in possession, officer had to positively ID offender who continued to lie after having consequences explained.",H,W,H,F,,21-24,,A,On-View Arrest,Fail To Identify Fugitive Intent Give False Info,M,C,No Driver License,M,C,Others\M\B,M,B,,,,,,,,,,,,,4Q2020
+20-066564,12/19/20,Arrest,600BLK E Hopkins St,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,H,W,H,M,,45-54,San Marcos,A,On-View Arrest,MAN DEL CS PG 1 >=1G<4G,F,,MAN DEL CS PG 1 >=4G<200G,F,,MAN DEL CS PG 2 >=4G<400G,F,,POSS MARIJ <2OZ,M,B,Driving While Intoxicated 2nd,M,A,,Others\M\A,,,,,4Q2020
+20-066841,12/20/20,Arrest,700BLK  River Rd,Y,Pre Existing Knowledge,Other Non-Citable Offenses,,H,W,H,M,,17-20,San Marcos,A,On-View Arrest,POSS CS PG 3 < 28G,M,A,POSS MARIJ <2OZ,M,A,Unl Carrying Weapon,M,A,,,,,,,,,,,,,4Q2020
+20-066986,12/21/20,Citation Issued,1200BLK S IH 35 ,Y,Moving Traffic Violation,,,W,W,N,F,,17-20,Luling,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-066955,12/21/20,Citation Issued,E Access Rd/Hwy 80,Y,Violation of Law,,,W,W,N,M,,45-54,,C,Summoned/Cited,VIOCO Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-067444,12/23/20,Citation Issued,W Access Rd/River Ridge Pkwy,Y,Moving Traffic Violation,,,W,W,N,M,,25-34,Manchaca,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,Open Container,,,,,,,,,,,,,,,,,,4Q2020
+20-067474,12/24/20,Arrest,1000BLK  Hwy 123 ,Y,Violation of Law,,,H,W,H,M,,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-067887,12/27/20,Citation Issued,500BLK E Hopkins St,Y,Violation of Law,,,W,W,N,M,,25-34,Pflugerville,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-068203,12/28/20,Citation Issued,1400BLK  Brown St,Y,Vehicle Traffic Violation,,,H,W,H,F,,21-24,New Braunfels,C,Summoned/Cited,VOCO - Open Container,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-068203,12/28/20,Citation Issued,1400BLK  Brown St,Y,Vehicle Traffic Violation,,,H,W,H,F,,25-34,New Braunfels,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,Open Container,,,,,,,,,,,,,,,,,,4Q2020
+20-068217,12/29/20,Citation Issued,1400BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-068516,12/30/20,Arrest,W Wonder World Dr/Craddock Ave,Y,Moving Traffic Violation,,,W,W,N,M,,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-068434,12/30/20,Arrest,100BLK  West Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,,M,,25-34,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-068433,12/30/20,Arrest,100BLK  West Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,,25-34,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,M,B,,,,,,,,,,,,,,,,,,,4Q2020
+20-068691,12/31/20,Citation Issued,1200BLK  Craddock Ave,Y,Vehicle Traffic Violation,,,B,B,N,M,,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2020
+20-068825,12/31/20,Arrest,200BLK  NB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,B,B,N,M,,17-20,Del Valle,A,On-View Arrest,POSS CS PG 2 < 1G,F,,POSS MARIJ <2OZ,M,,,,,,,,,,,,,,,,,4Q2020
+2.1E+11,1/1/21,Citation Issued,300BLK S Guadalupe St,Y,Moving Traffic Violation,,,W,W,N,F,38,35-44,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/2/21,Arrest,400BLK  Springtown Way,Y,Moving Traffic Violation,Arrest Warrant,,B,B,N,M,26,25-34,Spring,A,On-View Arrest,POSS MARIJ <2OZ,,,EVADING ARREST DET W/VEH,,,EVADING ARREST DETENTION,,,POSS CS PG 2 >= 400G,,,,,,,,,,,,1Q2021
+2.1E+11,1/4/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Demand for Magistrate,,W,W,N,F,21,21-24,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/7/21,Citation Issued,600BLK  Cheatham St,Y,Violation of Law,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/9/21,Multiple Arrest,2000BLK  Castle Gate Cir,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,F,21,21-24,San Marcos,A,On-View Arrest,UNAUTH USE OF VEHICLE,,,POSS MARIJ <2OZ,,,POSS CS PG 3 < 28G,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/9/21,Multiple Arrest,2000BLK  Castle Gate Cir,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,F,18,17-20,San Marcos,A,On-View Arrest,UNAUTH USE OF VEHICLE,,,POSS MARIJ <2OZ,,,POSS CS PG 3 < 28G,,,POSS CS PG 2 < 1G,,,,,,,,,,,,1Q2021
+2.1E+11,1/9/21,Arrest,2200BLK S IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,,H,W,H,M,20,17-20,Bulverde,A,On-View Arrest,POSS MARIJ >2OZ<=4OZ,,,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/10/21,Arrest,200BLK N Mile Marker ,Y,Moving Traffic Violation,No Hays County Connection,,W,W,N,M,21,21-24,Cedar Park,A,On-View Arrest,POSS CS PG 2 >= 4G<400G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/10/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,59,55-64,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/10/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,,W,W,N,M,46,45-54,San Antonio,A,On-View Arrest,Theft Prop >=$100<$750,,,POCS CS PG 1>=1G<4G,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/11/21,Citation Issued,1400BLK  Thorpe Ln,Y,Violation of Law,,,H,W,H,M,49,45-54,Buda,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/12/21,Citation Issued,700BLK  River Rd,Y,Moving Traffic Violation,,,B,B,N,F,19,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/12/21,Multiple Arrest,3900BLK S IH 35 ,Y,Pre Existing Knowledge,Other Non-Citable Offenses,,H,W,H,M,24,21-24,San Marcos,A,On-View Arrest,POSS CS PG 3 < 28G,,,POCS CS PG 1>=1G<4G,,,Reckless Driving,,,Theft under $100,,,,,,,,,,,,1Q2021
+2.1E+11,1/12/21,Citation Issued,300BLK  Foxtail Run,Y,Suspicious Circumstances,Juvenile,,H,W,H,M,27,25-34,Austin,C,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/12/21,Citation Issued,600BLK  Barnes Dr,Y,Violation of Law,,,B,B,N,M,29,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/13/21,Citation Issued,1600BLK  Craddock Ave,Y,Vehicle Traffic Violation,,,H,W,H,M,19,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/14/21,Arrest,100BLK N LBJ Dr,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,F,20,17-20,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,,,POSS CS PG 1 <1G,,,DRIVER LICENSE/ID FALSE,,,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,1Q2021
+2.1E+11,1/14/21,Citation Issued,100BLK N IH 35 ,Y,Violation of Law,,,H,W,H,F,19,17-20,Frisco,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/15/21,Citation Issued,900BLK N IH 35 ,Y,Vehicle Traffic Violation,,Field Release Citation issued,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/17/21,Citation Issued,1400BLK  Craddock Ave,Y,Violation of Law,,,W,W,N,F,20,17-20,San Marcos,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/17/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,B,B,N,M,23,21-24,Kyle,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/17/21,Arrest,N Bishop St/Earle St,Y,Moving Traffic Violation,Arrest Warrant,Subject resisted during arrest,B,B,N,M,27,25-34,San Marcos,A,On-View Arrest,RESIST ARREST SEARCH OR TRANSPORT,,,0,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/17/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Arrest Warrant,,H,W,H,F,27,25-34,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/18/21,Citation Issued,200BLK N LBJ Dr,Y,Community Initiated (CFS),,Criminal Mischief,W,W,N,M,24,21-24,San Marcos,C,Summoned/Cited,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/18/21,Citation Issued,1400BLK  Thorpe Ln,Y,Violation of Law,,,B,B,N,M,21,21-24,Houston,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/19/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,32,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/19/21,Arrest,100BLK  West Ave,Y,Moving Traffic Violation,Other Non-Citable Offenses,Charged with UCW,B,B,N,M,22,21-24,San Marcos,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/22/21,Arrest,300BLK  Telluride St,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,21,21-24,San Marcos,A,On-View Arrest,Driving Under Influence of Alcohol - Minor,,,POSS CS PG 3 < 28G,,,,,,POSS MARIJ <2OZ,,,,,,,,,,,,1Q2021
+2.1E+11,1/23/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,23,21-24,New Braunfels,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/23/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,F,18,17-20,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,,,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/25/21,Citation Issued,N C M Allen Pkwy/University Dr,Y,Violation of Law,,,H,W,H,F,19,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/27/21,Arrest,E Access Rd/Blanco River,Y,Suspicious Circumstances,Other Non-Citable Offenses,,W,W,N,M,42,35-44,New Braunfels,A,On-View Arrest,MAN DEL CS PG 1 >=1G<4G,,,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/27/21,Citation Issued,1900BLK S IH 35 ,Y,Violation of Law,,,W,W,,M,32,25-34,Austin,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/27/21,Arrest,1200BLK  Hwy 80 ,Y,Community Initiated (CFS),Imminent Danger,Offender was violent and refusing to give much information needed,B,B,N,F,22,21-24,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/28/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,42,35-44,Kyle,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/28/21,Arrest,500BLK  Barnes Dr,Y,Community Initiated (CFS),,,W,W,N,M,32,25-34,,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,H,W,H,F,31,25-34,Buda,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,B,B,N,F,25,25-34,Austin,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,B,B,N,F,34,25-34,Austin,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/30/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,23,21-24,San Marcos,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/30/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,H,W,H,M,25,25-34,Seguin,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/30/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,H,W,H,M,29,25-34,Austin,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/31/21,Citation Issued,E San Antonio St/LBJ Dr,Y,Violation of Law,,,H,W,H,M,26,25-34,San Marcos,C,Summoned/Cited,Others\\,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/31/21,Citation Issued,400BLK E Hopkins St,Y,Pre Existing Knowledge,,,B,B,N,M,23,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/31/21,Citation Issued,400BLK E Hopkins St,Y,Pre Existing Knowledge,,,B,B,N,M,23,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/3/21,Arrest,100BLK W San Antonio St,Y,Moving Traffic Violation,Other Non-Citable Offenses,arrested for POCS and POM <2oz,H,W,H,M,33,25-34,San Marcos,A,On-View Arrest,POSS CS PG 1 >=1G<4G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/3/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,52,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/3/21,Arrest,1800BLK  Aquarena Springs Dr,Y,Vehicle Traffic Violation,,,B,B,N,F,18,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/3/21,Arrest,1800BLK  Aquarena Springs Dr,Y,Vehicle Traffic Violation,,,B,B,N,M,20,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/4/21,Citation Issued,Hwy 123/E Access Rd,Y,Community Initiated (CFS),,,B,B,N,F,25,25-34,Austin,C,Summoned/Cited,Others,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/4/21,Citation Issued,1500BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,20,17-20,Kyle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Pre Existing Knowledge,,,W,W,N,F,32,25-34,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/6/21,Citation Issued,Nance St/W San Antonio St,Y,Violation of Law,,,B,B,N,M,20,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/7/21,Citation Issued,Moore St/W Hutchison St,Y,Vehicle Traffic Violation,,,B,B,N,M,22,21-24,La Grange,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,Open Container,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/7/21,Citation Issued,Gaillardia St/Student Center Dr,Y,Moving Traffic Violation,,,H,W,H,M,18,17-20,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/7/21,Arrest,S C M Allen Pkwy/RR Tracks,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,27,25-34,San Marcos,A,On-View Arrest,DRIVING WHILE INTOXICATED,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/7/21,Citation Issued,200BLK  NB ,Y,Moving Traffic Violation,,,H,W,H,M,38,35-44,Georgetown,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/12/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,38,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,700BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,POM Filed Release Citation issued,H,W,H,M,23,21-24,Kyle,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Multiple Arrest,1900BLK N IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,,W,W,U,M,19,17-20,Austin,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Multiple Arrest,1900BLK N IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,,H,W,H,,18,17-20,Austin,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,300BLK N LBJ Dr,Y,Violation of Law,,,H,W,H,M,20,17-20,League City,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,Jackson Ln/W Access Rd,Y,Moving Traffic Violation,,podp,B,B,N,M,27,25-34,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,2100BLK  Hunter Rd,Y,Moving Traffic Violation,,,W,W,N,M,25,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,200BLK  NB ,Y,Vehicle Traffic Violation,,,H,W,H,M,37,35-44,Austin,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,18,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/13/21,Citation Issued,900BLK N IH 35 ,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Purchase of Alcohol by Minor,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/17/21,Citation Issued,100BLK  Miles Dr,Y,Violation of Law,,,H,W,H,F,23,21-24,,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/18/21,Arrest,200BLK  Robbie Ln,Y,Pre Existing Knowledge,Other Non-Citable Offenses,,H,W,H,M,39,35-44,Martindale,A,On-View Arrest,Assault - Family Violence,,,POSS MARIJ <2OZ,,,POSS CS PG 3 < 28G,,,Tamper/fabricate Phys Evid W/intent To Impair,,,,,,,,,,,,1Q2021
+2.1E+11,2/20/21,Arrest,3900BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Arrested for PI in addition to Criminal Mischief,W,W,N,M,35,35-44,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,,,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/21/21,Multiple Arrest,100BLK N LBJ Dr,Y,Suspicious Circumstances,Other Non-Citable Offenses,Was arrested of an additional non citable offense,H,W,H,F,21,21-24,Austin,A,On-View Arrest,POSS CS PG 2 < 1G,,,POSS CS PG 3 < 28G,,,Unl Carrying Weapon,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/21/21,Multiple Arrest,100BLK N LBJ Dr,Y,Suspicious Circumstances,Other Non-Citable Offenses,Was arrested of an additional non citable offense,H,W,H,F,29,25-34,Austin,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/21/21,Report,400BLK  Linda Dr,Y,Community Initiated (CFS),Arrest Warrant,,W,W,N,F,44,35-44,San Marcos,0,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/21/21,Citation Issued,600BLK S Guadalupe St,Y,Violation of Law,,,H,W,H,M,18,17-20,San Marcos,C,Summoned/Cited,Others,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/22/21,Citation Issued,1400BLK  Leah Ave,Y,Pre Existing Knowledge,,,H,W,H,M,63,55-64,Lockhart,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Report,200BLK W Hopkins St,Y,Moving Traffic Violation,Arrest Warrant,,H,W,H,M,20,17-20,San Marcos,0,On-View Arrest,EVADING ARREST DETENTION,,,Fail To Identify Giving False/fictitious Info,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Report,200BLK W Hopkins St,Y,Moving Traffic Violation,,,W,W,N,M,19,17-20,Houston,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Report,200BLK W Hopkins St,Y,Moving Traffic Violation,,,W,W,N,M,21,21-24,Elgin,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Citation Issued,2200BLK S IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,18,17-20,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Citation Issued,500BLK  Linda Dr,Y,Violation of Law,,,W,W,N,F,41,35-44,Austin,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/23/21,Citation Issued,500BLK  Linda Dr,Y,Violation of Law,,,W,W,N,M,19,17-20,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/24/21,Citation Issued,700BLK S Guadalupe St,Y,Moving Traffic Violation,,,W,W,N,M,45,45-54,Martindale,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/25/21,Citation Issued,1900BLK N IH 35 ,Y,Violation of Law,,,H,W,H,M,29,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/25/21,Citation Issued,1900BLK N IH 35 ,Y,Violation of Law,,,W,W,N,F,24,21-24,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Syringe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/26/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,evading and POCS,W,W,N,M,29,25-34,Bastrop,A,On-View Arrest,Theft Prop >=$100<$750,,,EVADING ARREST DETENTION,,,POSS CS PG 1 <1G,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/26/21,Citation Issued,1800BLK S IH 35 ,Y,Vehicle Traffic Violation,,,W,W,N,F,46,45-54,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/1/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,W,W,N,F,21,21-24,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/2/21,Citation Issued,700BLK  River Rd,Y,Community Initiated (CFS),,,W,W,N,F,21,21-24,San Marcos,C,Summoned/Cited,Others,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/3/21,Citation Issued,W Access Rd/Blanco River,Y,Vehicle Traffic Violation,,,H,W,H,M,29,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/3/21,Citation Issued,100BLK  Concho St,Y,Pre Existing Knowledge,,,W,W,N,F,20,17-20,Spring,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/6/21,Citation Issued,100BLK  Linda Dr,Y,Violation of Law,,,H,W,H,F,47,45-54,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/7/21,Citation Issued,1400BLK  Craddock Ave,Y,Violation of Law,,,H,W,H,F,20,17-20,Fort Worth,C,Summoned/Cited,DOC - Noise Unreasonable,,,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/9/21,Citation Issued,200BLK S C M Allen Pkwy,Y,Violation of Law,,,W,W,N,F,23,21-24,New Braunfels,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/9/21,Citation Issued,200BLK S C M Allen Pkwy,Y,Violation of Law,,,W,W,N,M,21,21-24,Mcqueeney,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/9/21,Citation Issued,200BLK S C M Allen Pkwy,Y,Violation of Law,,,H,W,H,M,19,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,Minor in Possession - Alcohol,,,Minor in Possession - Tobacco,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/9/21,Citation Issued,200BLK S C M Allen Pkwy,Y,Violation of Law,,,W,W,N,F,18,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/11/21,Citation Issued,200BLK W Grove St,Y,Violation of Law,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/12/21,Arrest,2000BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,24,21-24,San Marcos,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,POSS CS PG 1 <1G,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/14/21,Citation Issued,200BLK N Guadalupe St,Y,Violation of Law,,,B,B,N,M,22,21-24,Houston,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/15/21,Citation Issued,1200BLK  Hwy 123 ,Y,Violation of Law,,,H,W,H,M,33,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/15/21,Citation Issued,1400BLK  Old Ranch Road 12 ,Y,Violation of Law,,,W,W,N,F,26,25-34,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/15/21,Citation Issued,1400BLK  Old Ranch Road 12 ,Y,Violation of Law,,,B,B,N,F,38,35-44,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/16/21,Arrest,100BLK  Nichols Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,Assault - Family Violence,W,W,N,M,25,25-34,Cedar Creek,A,On-View Arrest,ASSAULT CAUSES BODILY INJURY FAMILY VIOL,,,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/17/21,Citation Issued,200BLK W Hopkins St,Y,Vehicle Traffic Violation,,,H,W,H,F,22,21-24,Manchaca,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/20/21,Arrest,400BLK  Linda Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,Arrested for Public Intoxiation,H,W,H,M,22,21-24,,A,On-View Arrest,Public Intoxication - Other Substance,,,POSS MARIJ <2OZ,,,Poss of Drug Paraphernailia - General,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/21/21,Arrest,1300BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Assault Family Violence Impede Breath/POCS Charges as well,H,W,H,M,19,17-20,Maxwell,A,On-View Arrest,ASSAULT FAM/HOUSE MEM IMPEDE BREATH/CIRC,,,POSS CS PG 2 < 1G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/22/21,Citation Issued,1400BLK E McCarty Ln,Y,Violation of Law,,,H,W,H,M,30,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/23/21,Citation Issued,E Sessom Dr/Ed J L Green St,Y,Moving Traffic Violation,,,H,W,H,F,22,21-24,Austin,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,31,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/26/21,Citation Issued,900BLK  Sycamore St,Y,Pre Existing Knowledge,,,H,W,H,M,42,35-44,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/26/21,Arrest,400BLK  Linda Dr,Y,Moving Traffic Violation,,,B,B,N,M,43,35-44,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/27/21,Citation Issued,100BLK W Hopkins St,Y,Suspicious Circumstances,,,B,B,N,M,23,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/27/21,Citation Issued,Cheatham St/S LBJ Dr,Y,Vehicle Traffic Violation,,,B,B,N,M,19,17-20,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/28/21,Citation Issued,200BLK W Hopkins St,Y,Violation of Law,,,B,B,N,M,18,17-20,San Antonio,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/28/21,Arrest,North St/Vista St,Y,Violation of Law,Other Non-Citable Offenses,,B,B,N,M,23,21-24,Quitman,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Arrest,3900BLK S IH 35 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,M,35,35-44,Austin,A,On-View Arrest,POSS CS PG 1 >=4G<200G,,,POSS CS PG 1 <1G,,,POSS CS PG 3 < 28G,,,POSS MARIJ <2OZ,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Citation Issued,N Guadalupe St/Hutchison St,Y,Violation of Law,,,W,W,N,M,67,65+,,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Detention Juv,300BLK  Foxtail Run,Y,Suspicious Circumstances,Juvenile,,H,W,H,M,14,<17,San Marcos,J,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/30/21,Citation Issued,Old Ranch Road 12/W Wonder World Dr,Y,Moving Traffic Violation,,,H,W,H,F,30,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/30/21,Citation Issued,1400BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,19,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/31/21,Citation Issued,900BLK  Bugg Ln,Y,Violation of Law,,,H,W,H,F,20,17-20,Maxwell,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/17/21,Report,1200BLK N LBJ Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,35,35-44,Del Valle,0,Warrant Arrest,Criminal Mischief >=$100<$750,,,Stalking,,,42.07(c)-PC-MB\\,,,,,,,,,,,,,,,1Q2021
+2.1E+11,1/18/21,Report,900BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Theft of Service under $100,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,2/4/21,Report,700BLK  River Rd,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,26,25-34,San Marcos,0,Warrant Arrest,AGG ASSAULT W/DEADLY WEAPON,,,CONTINUOUS VIOLENCE AGAINST THE FAMILY,,,28.03(b)(2)-PC-MB-29990042\M\B,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,B,B,N,F,30,25-34,St Petersburg,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,B,B,N,F,34,25-34,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/29/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,W,W,N,F,33,25-34,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,3/30/21,Citation Issued,W San Antonio St/Guadalupe St,Y,Vehicle Traffic Violation,,,0,,,M,22,21-24,Eagle Pass,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,1Q2021
+2.1E+11,4/2/21,Arrest,100BLK W Hopkins St,Y,Suspicious Circumstances,Other Non-Citable Offenses,,B,B,N,M,29,25-34,Buda,A,On-View Arrest,POSS MARIJ <2OZ,,,481.115(b)-HSC-FS\\,,,46.02(b)-PC-MA\\,,,481.125-HSC~3\\,,,,,,,,,,,,2Q2021
+2.1E+11,4/2/21,Arrest,N Bishop St/W Hopkins St,Y,Vehicle Traffic Violation,,Traffic Stop city ordinance loud stereo,H,W,H,M,35,35-44,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/2/21,Arrest,700BLK  Barnes Dr,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,M,33,25-34,San Antonio,A,On-View Arrest,POSS MARIJ <2OZ,,,521.457(f)(f-1)-TRC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/4/21,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/4/21,Citation Issued,400BLK  North St,Y,Community Initiated (CFS),,,W,W,N,M,24,21-24,Winter Haven,C,Summoned/Cited,,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/5/21,Arrest,100BLK E Hopkins St,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,F,34,25-34,Lockhart,A,On-View Arrest,Public Intoxication - Other Substance,,,42.01(6)-PC-MC\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/7/21,Arrest,Hwy 80/Clarewood Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,23,21-24,Austin,A,On-View Arrest,POSS MARIJ <2OZ,,,550.021(c)(2)-TRC-F*\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/8/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,21,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/8/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,20,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/11/21,Citation Issued,200BLK  SB ,Y,Community Initiated (CFS),,,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/11/21,Citation Issued,200BLK  SB ,Y,Community Initiated (CFS),,,H,W,H,M,19,17-20,Watonga,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/17/21,Citation Issued,100BLK E Hopkins St,Y,Violation of Law,,,W,W,N,M,18,17-20,Kyle,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/17/21,Citation Issued,100BLK E Hopkins St,Y,Violation of Law,,,W,W,N,M,19,17-20,San Marcos,C,Summoned/Cited,Minor In Possession,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/17/21,Multiple Arrest,100BLK  Wonder World Dr,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,F,28,25-34,San Marcos,A,On-View Arrest,POSS CS PG 1 >=1G<4G,,,481.121(b)(1)-HSC-MB\M\B,,,481.115(b)-HSC-FS\F\,,,481.116(b)-HSC-FS\\,,,,,,,,,,,,2Q2021
+2.1E+11,4/18/21,Citation Issued,600BLK  Barbara Dr,Y,Community Initiated (CFS),,,W,W,N,M,19,17-20,Spring,C,Summoned/Cited,DOC - Noise Unreasonable,,,Others\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Cited and released,W,W,N,F,35,35-44,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/18/21,Citation Issued,1400BLK  Alamo St,Y,Community Initiated (CFS),,,W,W,N,M,32,25-34,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/19/21,Citation Issued,400BLK  Linda Dr,Y,Moving Traffic Violation,,,W,W,N,M,36,35-44,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/20/21,Detention Juv,200BLK E De Zavala Dr,Y,Community Initiated (CFS),Juvenile,,H,W,H,M,11,<17,San Marcos,J,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/21/21,Arrest,1400BLK E McCarty Ln,Y,Moving Traffic Violation,Other Non-Citable Offenses,,B,B,N,M,34,25-34,Kyle,A,On-View Arrest,DRIVING WHILE INTOXICATED 3RD OR MORE IAT,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/21/21,Report,400BLK N Fredericksburg St,Y,Violation of Law,,,W,W,N,M,22,21-24,Seguin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/23/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,37,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/24/21,Report,300BLK N LBJ Dr,Y,Community Initiated (CFS),Arrest Warrant,,B,B,N,M,19,17-20,San Marcos,0,Warrant Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/25/21,Arrest,900BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,F,60,55-64,San Marcos,A,On-View Arrest,ASSAULT CAUSES BODILY INJURY FAMILY VIOL,,,481.121(b)(1)-HSC-MB\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/27/21,Detention Juv,1300BLK  Hwy 123 ,Y,Community Initiated (CFS),Juvenile,,H,W,H,M,12,<17,San Marcos,J,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,4/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,57,55-64,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/2/21,Citation Issued,300BLK W MLK Dr,Y,Vehicle Traffic Violation,,,H,W,H,M,17,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/2/21,Arrest,2100BLK S IH 35 ,Y,Moving Traffic Violation,Other Non-Citable Offenses,POCS,H,W,H,M,29,25-34,San Marcos,A,On-View Arrest,POSS CS PG 3 < 28G,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/3/21,Citation Issued,Centerpoint Rd/W Access Rd,Y,Vehicle Traffic Violation,,,B,B,N,M,32,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/5/21,Citation Issued,1200BLK  Thorpe Ln,Y,Vehicle Traffic Violation,,,B,B,N,M,24,21-24,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/6/21,Arrest,200BLK S Mile Marker ,Y,Moving Traffic Violation,Other Non-Citable Offenses,Also No Hays County Residence,H,W,H,M,22,21-24,Giddings,A,On-View Arrest,POSS MARIJ <2OZ,,,481.116_(b)-HSC-FS\F\,,,502.475(d)-TRC-MB\\,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/10/21,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,No Hays County Connection,,H,W,H,F,33,25-34,New Braunfels,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/11/21,Citation Issued,2600BLK  Rattler Rd,Y,Community Initiated (CFS),,,B,B,N,M,17,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/12/21,Citation Issued,Mill St/Eastwood St,Y,Moving Traffic Violation,,,H,W,H,M,27,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/13/21,Arrest,200BLK S LBJ Dr,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,22,21-24,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,,,49.031-TRC\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/14/21,Citation Issued,1200BLK S IH 35 ,Y,Moving Traffic Violation,,,W,W,N,M,23,21-24,Maxwell,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/14/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,20,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/14/21,Arrest,1600BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,21,21-24,San Marcos,A,On-View Arrest,"Criminal Mischief >=$750<$2,500",,,31.04(e)(2)-PC-MB-23990178\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/15/21,Citation Issued,E Hopkins St/W Access Rd,Y,Violation of Law,,,B,B,N,M,45,45-54,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/15/21,Arrest,200BLK  SB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,M,21,21-24,,A,On-View Arrest,Unl Carrying Weapon,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/21/21,Citation Issued,River Rd/Conway Dr,Y,Community Initiated (CFS),,,H,W,H,F,33,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/25/21,Arrest,1000BLK  Hwy 80 ,Y,Suspicious Circumstances,Arrest Warrant,POM and PODP,H,W,H,M,58,55-64,San Marcos,A,Warrant Arrest,POSS MARIJ <2OZ,,,481.125-HSC\\,,,Others\M\C,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/25/21,Report,1400BLK  Harper Dr,Y,Community Initiated (CFS),,Cited/No Arrest,W,W,N,M,54,45-54,San Marcos,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/27/21,Citation Issued,1600BLK N IH 35 ,Y,Violation of Law,,,B,B,N,M,19,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/27/21,Citation Issued,300BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,28,25-34,Bon Wier,C,Summoned/Cited,VOCO - Open Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/28/21,Detention Juv,1100BLK  San Marcos Pkwy,Y,Community Initiated (CFS),Juvenile,,H,W,H,M,17,17-20,San Marcos,J,On-View Arrest,POSS CS PG 3 < 28G,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/28/21,Arrest,W Wonder World Dr/Old Ranch Road 12,Y,Moving Traffic Violation,Arrest Warrant,Warrant Arrest / No Hays County Connection,B,B,N,M,28,25-34,Austin,A,Warrant Arrest,POSS MARIJ <2OZ,,,Others\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/28/21,Arrest,1700BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,21,21-24,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/29/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,50,45-54,Dallas,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/30/21,Arrest,400BLK  Heart Ridge ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,37,35-44,Amarillo,A,On-View Arrest,ASSAULT CAUSES BODILY INJURY FAMILY VIOL,,,28.03(b)(2)-PC-MB-29990042\M\B,,,30.05(d)(3)(A)-PC-MA\M\A,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/30/21,Arrest,1600BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,M,27,25-34,Baytown,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/31/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,M,24,21-24,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/31/21,No Report,1300BLK  Aquarena Springs Dr,Y,Violation of Law,,,W,W,N,F,23,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/31/21,Arrest,100BLK  Spring Rd,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,31,25-34,San Marcos,A,On-View Arrest,Agg Assault Against Public Servant,,,38.03(a)-PC-MA\\,,,28.03(b)(2)-PC-MB-29990042\M\B,,,,,,,,,,,,,,,2Q2021
+2.1E+11,5/31/21,Citation Issued,2100BLK S IH 35 ,Y,Violation of Law,,,H,W,H,F,35,35-44,,C,Summoned/Cited,CONSUME ON PREMISES PROHIBITED,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/1/21,Citation Issued,100BLK W Hutchison St,Y,Violation of Law,,,W,W,N,F,27,25-34,,C,Summoned/Cited,,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/1/21,Arrest,100BLK  West Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,22,21-24,San Marcos,A,On-View Arrest,CRIM TRESPASS HABIT/SHLTR/SUPRFUND/INFST,,,28.03(b)(2)-PC-MB-29990042\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/2/21,Citation Issued,3900BLK S IH 35 ,Y,Moving Traffic Violation,,,W,W,N,M,21,21-24,Schertz,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/4/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,40,35-44,,C,Summoned/Cited,,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/5/21,Citation Issued,1600BLK N IH 35 ,Y,Violation of Law,,,W,W,N,M,19,17-20,Karnes City,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Pre Existing Knowledge,,,H,W,H,F,39,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Pre Existing Knowledge,,,H,W,H,M,33,25-34,Buda,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/6/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,17,17-20,Anahuac,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,33,25-34,Lincoln,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/7/21,Citation Issued,EXIT 200 SB,Y,Moving Traffic Violation,,,H,W,H,M,18,17-20,Red Oak,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/7/21,Citation Issued,EXIT 200 SB,Y,Moving Traffic Violation,,,H,W,H,F,17,17-20,Waxahachie,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/9/21,Citation Issued,Wonder World Dr/Hunter Rd,Y,Vehicle Traffic Violation,,,B,B,N,M,29,25-34,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/9/21,Citation Issued,Wonder World Dr/Hunter Rd,Y,Vehicle Traffic Violation,,,W,W,N,F,19,17-20,Canyon Lake,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/10/21,Arrest,100BLK E Hopkins St,Y,Moving Traffic Violation,Other Non-Citable Offenses,Tampering/POCS/POM,H,W,H,M,38,35-44,San Marcos,A,On-View Arrest,Tamper/fabricate Phys Evid W/intent To Impair,,,481.117(b)-HSC-MA\M\A,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/10/21,Citation Issued,1000BLK  Technology Way,Y,Moving Traffic Violation,,,W,W,N,M,20,17-20,Pflugerville,C,Summoned/Cited,Driving Under Influence of Alcohol - Minor,,,481.125-HSC\\,,,106.05-ABC-MC\\,,,161.252(a)1-HSC-MC\\,,,,,,,,,,,,2Q2021
+2.1E+11,6/11/21,Arrest,100BLK W Hopkins St,Y,Community Initiated (CFS),Arrest Warrant,,H,W,H,M,20,17-20,San Marcos,A,Warrant Arrest,Poss of Drug Paraphernalia - Syringe,,,481.115(b)-HSC-FS\F\,,,Others\M\C,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/12/21,Citation Issued,1300BLK  Hwy 123 ,Y,Violation of Law,,,B,B,N,M,21,21-24,Houston,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/13/21,Arrest,1100BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,22,21-24,San Marcos,A,On-View Arrest,DRIVING WHILE INTOXICATED,,,481.117(b)-HSC-MA\M\A,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,32,25-34,Baton Rouge,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,31,25-34,Richmond,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/14/21,Citation Issued,1300BLK N IH 35 ,Y,Pre Existing Knowledge,,,H,W,H,F,31,25-34,New Braunfels,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/16/21,False Alarm,1600BLK  Post Rd,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/16/21,Citation Issued,200BLK W Access Rd,Y,Violation of Law,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/17/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,19,17-20,Kyle,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/17/21,Citation Issued,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,18,17-20,Buda,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/17/21,Citation Issued,1100BLK  San Marcos Pkwy,Y,Violation of Law,,,H,W,H,F,17,17-20,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/17/21,Citation Issued,1100BLK  San Marcos Pkwy,Y,Violation of Law,,,B,B,N,F,16,<17,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Pre Existing Knowledge,,,W,W,N,F,25,25-34,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Pre Existing Knowledge,,,B,B,N,M,24,21-24,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/18/21,Arrest,700BLK  River Rd,Y,Suspicious Circumstances,No Hays County Connection,,B,B,N,F,20,17-20,Las Vegas,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/19/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,M,25,25-34,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/19/21,Citation Issued,300BLK E Hopkins St,Y,Vehicle Traffic Violation,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/19/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,H,W,H,M,31,25-34,Lubbock,C,Summoned/Cited,Consuming Alcohol after hours,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/19/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,20,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/19/21,Citation Issued,200BLK  SB ,Y,Moving Traffic Violation,,,H,W,H,M,54,45-54,San Antonio,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/20/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,34,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/20/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,57,55-64,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/20/21,Detention Juv,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,EOCA,H,W,H,M,15,<17,San Marcos,J,On-View Arrest,ENGAGING IN ORGANIZED CRIMINAL ACTIVITY,,,16.01\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/21/21,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Violation of Law,,,B,B,N,F,20,17-20,Texarkana,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/23/21,Citation Issued,1400BLK N LBJ Dr,Y,Community Initiated (CFS),,,W,W,N,M,26,25-34,League City,C,Summoned/Cited,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/24/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,23,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/24/21,Arrest,1400BLK  Craddock Ave,Y,Moving Traffic Violation,Other Non-Citable Offenses,,W,W,N,F,45,45-54,San Marcos,A,On-View Arrest,DRIVING WHILE INTOXICATED/OPEN ALCH CONT,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/25/21,Citation Issued,200BLK  Porter St,Y,Violation of Law,,,H,W,H,M,27,25-34,,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,31,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/26/21,Arrest,4300BLK S IH 35 ,Y,Moving Traffic Violation,Arrest Warrant,No Hays County Connection,H,W,H,M,24,21-24,,A,On-View Arrest,Fail To Identify Fugitive Intent Give False Info,,,481.121(b)(1)-HSC-MB\\,,,Others\\,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/27/21,Citation Issued,E Hopkins St/N LBJ Dr,Y,Violation of Law,,,W,W,N,F,20,17-20,Cypress,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/27/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,A,A,N,F,20,17-20,San Marcos,C,Summoned/Cited,Minor Consuming Alcohol,,,106.07-ABC-MC\\,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/27/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,B,B,N,M,21,21-24,Austin,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/28/21,Citation Issued,1400BLK  Leah Ave,Y,Violation of Law,,,W,W,,F,51,45-54,Canyon Lake,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/29/21,Citation Issued,2700BLK  Hunter Rd,Y,Vehicle Traffic Violation,,,H,W,H,M,33,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/30/21,Citation Issued,600BLK E Hopkins St,Y,Violation of Law,,,B,B,N,M,31,25-34,San Marcos,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/30/21,Citation Issued,1000BLK N IH 35 ,Y,Vehicle Traffic Violation,,,W,W,N,M,47,45-54,Kyle,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,2Q2021
+2.1E+11,6/25/21,Arrest,400BLK  Linda Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,POCS and UCW,W,W,N,M,50,45-54,San Marcos,A,On-View Arrest,,,,46.02(b)-PC-MA\M\A,,,,,,481.121(b)(1)-HSC-MB\M\B,481.116(b)-HSC-FS\F\,,,,,,,,,,,2Q2021
+2.1E+11,4/9/21,Arrest,Centerpoint Rd/E Access Rd,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,21,21-24,San Marcos,A,On-View Arrest,,,,28.03(b)(2)-PC-MB-29990042\M\B,,,3123\M\B,,,,,,,,,,,,,,,2Q2021
+2.1E+11,7/2/21,Citation Issued,1700BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,17,17-20,Lockhart,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/3/21,Citation Issued,1000BLK  Hwy 123 ,Y,Moving Traffic Violation,,,H,W,H,F,29,25-34,,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/3/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,36,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/3/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,,M,24,21-24,Groves,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/3/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,24,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/4/21,Arrest,200BLK  NB ,Y,Moving Traffic Violation,Other Non-Citable Offenses,reckless driving,B,B,N,M,22,21-24,Kyle,A,On-View Arrest,POSS MARIJ >2OZ<=4OZ,,,Reckless Driving,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/4/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,18,17-20,Austin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/4/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,0,,,M,19,17-20,Del Valle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/6/21,Arrest,1400BLK E McCarty Ln,Y,Pre Existing Knowledge,Other Non-Citable Offenses,Narcotics were in the vehicle,H,W,H,M,23,21-24,,A,On-View Arrest,MAN DEL CS PG 1 >=4G<200G,,,POSS MARIJ <2OZ,,,Others\M\B,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/6/21,Arrest,1400BLK E McCarty Ln,Y,Pre Existing Knowledge,Other Non-Citable Offenses,Narcotics were in the vehicle,W,W,N,M,39,35-44,San Marcos,0,Warrant Arrest,MAN DEL CS PG 1 >=4G<200G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,21,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/8/21,Citation Issued,200BLK  NB ,Y,Moving Traffic Violation,,,W,W,N,F,20,17-20,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/8/21,Citation Issued,3900BLK S IH 35 ,Y,Community Initiated (CFS),,,H,W,H,F,28,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/8/21,Arrest,200BLK S Mile Marker ,Y,Violation of Law,,,H,W,H,F,30,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/8/21,Arrest,200BLK S Mile Marker ,Y,Violation of Law,No Hays County Connection,,H,W,H,M,34,25-34,San Antonio,A,Warrant Arrest,,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/8/21,Arrest,400BLK N LBJ Dr,Y,Moving Traffic Violation,,,B,B,N,M,31,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/9/21,Arrest,1400BLK  Thorpe Ln,Y,Community Initiated (CFS),Other Non-Citable Offenses,Assault Family Violence,H,W,H,M,46,45-54,San Marcos,A,On-View Arrest,Assault Physical Contact,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/9/21,Citation Issued,100BLK E San Antonio St,Y,Suspicious Circumstances,,,H,W,H,M,38,35-44,San Marcos,C,Summoned/Cited,DOC - Exposing,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/10/21,Citation Issued,300BLK  Mill St,Y,Community Initiated (CFS),,,H,W,H,M,59,55-64,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/10/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,F,36,35-44,Luling,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/10/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),No Hays County Connection,,H,W,H,M,37,35-44,Luling,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/11/21,Arrest,3900BLK S IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,,W,W,N,F,26,25-34,San Antonio,A,On-View Arrest,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/11/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,Citation issued for misdemeanor theft,W,W,N,F,43,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/13/21,Citation Issued,600BLK  Barnes Dr,Y,Violation of Law,,,B,B,N,M,20,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/13/21,Citation Issued,500BLK E Hopkins St,Y,Vehicle Traffic Violation,,,B,B,N,M,23,21-24,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/15/21,Citation Issued,Wonder World Dr/Corporate Dr,Y,Community Initiated (CFS),,,W,W,N,M,20,17-20,Wimberley,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/15/21,Citation Issued,Wonder World Dr/Corporate Dr,Y,Community Initiated (CFS),,,W,W,N,M,18,17-20,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/15/21,Arrest,100BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,62,55-64,,A,On-View Arrest,DOC - Gesture,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/17/21,Citation Issued,2000BLK S IH 35 ,Y,Moving Traffic Violation,,,B,B,N,M,35,35-44,Franklin,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/19/21,Citation Issued,200BLK S C M Allen Pkwy,Y,Violation of Law,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/19/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,59,55-64,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/19/21,Citation Issued,1000BLK  Hwy 123 ,Y,Violation of Law,,,B,B,N,F,25,25-34,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/20/21,Report,3900BLK S IH 35 ,Y,Violation of Law,,,B,B,N,F,19,17-20,Selma,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/22/21,Citation Issued,Lee St/S Guadalupe St,Y,Moving Traffic Violation,,,H,W,H,F,20,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/23/21,Arrest,Craddock Ave/Old Ranch Road 12,Y,Moving Traffic Violation,Arrest Warrant,,B,B,N,M,43,35-44,Maxwell,A,Warrant Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/24/21,Citation Issued,300BLK  Telluride St,Y,Community Initiated (CFS),,,H,W,H,F,21,21-24,Port Lavaca,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/24/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,M,21,21-24,Grandbury,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/24/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,F,47,45-54,San Marcos,A,On-View Arrest,Theft Prop <$100 W/prev Convic,,,CRIMINAL TRESPASS,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/24/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,41,35-44,San Marcos,A,On-View Arrest,Theft Prop <$100 W/prev Convic,,,CRIMINAL TRESPASS,,,Others\\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/25/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Also no Hays County Connection,B,B,N,M,31,25-34,Austin,A,On-View Arrest,POSS CS PG 1 <1G,,,Theft Prop >=$100<$750,,,32.51(c)(1)-PC-FS\\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/25/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,F,36,35-44,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,,,POSS CS PG 1 >=1G<4G,,,31.03(e)(2)(A)-PC-MB\M\B,,,32.51(c)(2)-PC-F3\F\,,,,,,,,,,,,3Q2021
+2.1E+11,7/26/21,Arrest,1500BLK S IH 35 ,Y,Violation of Law,Imminent Danger,,W,W,N,M,48,45-54,San Marcos,A,On-View Arrest,Assault Physical Contact,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/27/21,Arrest,1000BLK  Hwy 80 ,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,B,B,N,M,32,25-34,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,Unl Carrying Weapon,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/27/21,Citation Issued,1900BLK N IH 35 ,Y,Suspicious Circumstances,,,W,W,N,M,20,17-20,Corpus Christi,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/27/21,Citation Issued,200BLK  Charles Austin Dr,Y,Suspicious Circumstances,,,W,W,N,F,49,45-54,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Syringe,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/28/21,Report,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Arrest Warrant,,B,B,N,M,31,25-34,Austin,0,Warrant Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/28/21,Multiple Arrest,1300BLK  Thorpe Ln,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,"POCS PG1, Evading",H,W,H,M,19,17-20,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,,,POSS MARIJ <2OZ,,,38.04(b)-PC-MA\M\A,,,38.03(a)-PC-MA\M\A,,,,,,,,,,,,3Q2021
+2.1E+11,7/28/21,Multiple Arrest,1300BLK  Thorpe Ln,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,"POCS PG1, Evading",W,W,N,F,18,17-20,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,,,POSS MARIJ <2OZ,,,36.06(c)-PC-F3-50990041\F\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/29/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,F,20,17-20,Brooklyn,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/29/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,F,20,17-20,Brooklyn,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/29/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,40,35-44,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,CRIMINAL TRESPASS,,,38.02_(d)(2)-PC-MA\M\A,,,Others\\,,,,,,,,,,,,3Q2021
+2.1E+11,7/30/21,Citation Issued,Hwy 80/River Rd,Y,Pre Existing Knowledge,,,H,W,H,M,40,35-44,Lockhart,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/31/21,Arrest,100BLK W San Antonio St,Y,Suspicious Circumstances,Other Non-Citable Offenses,UCW & POM,B,B,N,M,22,21-24,Lockhart,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,7/31/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,34,25-34,Maxwell,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/1/21,Citation Issued,100BLK E Hutchison St,Y,Violation of Law,,,B,B,N,M,23,21-24,Kingwood,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/3/21,Citation Issued,Hwy 123/E Access Rd,Y,Community Initiated (CFS),,,B,B,N,F,39,35-44,Hopkinsville,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,18,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,21,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,No Report,900BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,39,35-44,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,45,45-54,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/5/21,Citation Issued,2300BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,25,25-34,Buda,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,53,45-54,Houston,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,18,17-20,Victoria,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/7/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,21,21-24,Canyon,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/7/21,Citation Issued,900BLK  Hwy 80 ,Y,Moving Traffic Violation,,,W,W,N,M,30,25-34,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,53,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,42,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,43,35-44,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/8/21,Arrest,2000BLK S IH 35 ,Y,Community Initiated (CFS),No Hays County Connection,,B,B,N,M,27,25-34,Seguin,A,On-View Arrest,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/8/21,Arrest,1400BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,B,B,N,M,26,25-34,Jackson,A,On-View Arrest,AGG ASSAULT W/DEADLY WEAPON,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/8/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,42,35-44,Buda,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/8/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,40,35-44,Buda,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/9/21,Citation Issued,900BLK N IH 35 ,Y,Vehicle Traffic Violation,,,H,W,H,F,24,21-24,Lockhart,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/9/21,Citation Issued,900BLK N IH 35 ,Y,Vehicle Traffic Violation,,,W,W,N,F,23,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/9/21,Arrest,1000BLK  Hwy 123 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,DWLI/DWI/Evading,H,W,H,M,27,25-34,San Marcos,A,On-View Arrest,Driving While Intoxicated 2nd,,,EVADING ARREST DET W/PREV CONVICTION,,,521.457(f)(f-1)-TRC-MB\M\B,,,38.03(a)-PC-MA\M\A,,,,,,,,,,,,3Q2021
+2.1E+11,8/9/21,Citation Issued,E Access Rd/Hwy 80,Y,Violation of Law,,,W,W,N,M,55,55-64,,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/9/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,26,25-34,San Antonio,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/11/21,Citation Issued,400BLK N Fredericksburg St,Y,Violation of Law,,,H,W,H,F,19,17-20,Austin,C,Summoned/Cited,Minor in Possession - Alcohol,,,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/11/21,Arrest,100BLK  Smith Ln,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,40,35-44,San Marcos,A,On-View Arrest,Assault - Family Violence,,,EVADING ARREST DETENTION W/VEH OR WATERCRAFT,,,481.115(d)-HSC-F2\F\,,,481.121(b)(1)-HSC-MB\M\B,,,481.116(b)-HSC-FS\F\,481.125-HSC~2\M\C,46.02(b)-PC-MA\M\A,42.062-PC-MA\M\A,,,,,,3Q2021
+2.1E+11,8/13/21,Citation Issued,400BLK  Linda Dr,Y,Vehicle Traffic Violation,,,B,B,N,M,37,35-44,Rosenberg,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/13/21,Citation Issued,E Access Rd/Blanco River,Y,Moving Traffic Violation,,,H,W,H,M,30,25-34,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,22,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/13/21,Citation Issued,900BLK N IH 35 ,Y,Vehicle Traffic Violation,,,H,W,H,M,54,45-54,San Marcos,C,Summoned/Cited,DRIVING W/LIC INV W/PREV CONV/SUSP/W/O F,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/14/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,41,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/14/21,Report,300BLK E Grove St,Y,Pre Existing Knowledge,,,W,W,N,F,23,21-24,San Marcos,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/15/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,25,25-34,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/15/21,Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,No Hays County Connection,,A,A,N,F,51,45-54,Beaumont,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/15/21,Citation Issued,Crystal River Pkwy/Lago Vista Dr,Y,Community Initiated (CFS),,,B,B,N,F,38,35-44,Fort Worth,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/16/21,Arrest,100BLK N LBJ Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,30,25-34,Austin,A,On-View Arrest,INTERFER W/PUBLIC DUTIES,,,Public Intoxication - Alcohol,,,38.02-PC-MC\M\C,,,28.03-PC\M\C,,,42.01(1)-PC-MC\M\C,,,,,,,,,3Q2021
+2.1E+11,8/18/21,Arrest,1200BLK  Christopher St,Y,Suspicious Circumstances,Other Non-Citable Offenses,PI & POM,H,W,H,M,29,25-34,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,Public Intoxication - Alcohol,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/19/21,Citation Issued,200BLK E Access Rd,Y,Violation of Law,,,H,W,H,M,65,65+,,C,Summoned/Cited,DOC - Exposing,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/19/21,Citation Issued,E Access Rd/Hwy 80,Y,Violation of Law,,,W,W,N,M,55,55-64,,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/19/21,Citation Issued,600BLK S Guadalupe St,Y,Violation of Law,,,H,W,H,M,34,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/19/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,23,21-24,Martindale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/20/21,Citation Issued,100BLK N Edward Gary St,Y,Violation of Law,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/20/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,H,W,H,F,24,21-24,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/20/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,F,19,17-20,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/20/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,F,19,17-20,Montgomery,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/21/21,Citation Issued,1400BLK  Craddock Ave,Y,Community Initiated (CFS),,,H,W,H,M,24,21-24,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/22/21,Citation Issued,1700BLK  Mill St,Y,Community Initiated (CFS),,,B,B,N,M,21,21-24,Carrollton,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/22/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,22,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/22/21,Citation Issued,E Access Rd/Hwy 80,Y,Violation of Law,,,H,W,H,M,39,35-44,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/23/21,Citation Issued,1000BLK  Sycamore St,Y,Moving Traffic Violation,,,H,W,H,M,64,55-64,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/23/21,Citation Issued,E Access Rd/Hwy 123,Y,Community Initiated (CFS),,,B,B,N,F,28,25-34,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/23/21,Citation Issued,E Access Rd/Hwy 123,Y,Community Initiated (CFS),,,B,B,N,F,34,25-34,Austin,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/23/21,Citation Issued,1700BLK  Old Ranch Road 12 ,Y,Moving Traffic Violation,,,W,W,N,F,26,25-34,Spring,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/24/21,Citation Issued,E Hopkins St/W Access Rd,Y,Community Initiated (CFS),,,H,W,H,M,40,35-44,San Marcos,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/26/21,Citation Issued,1400BLK  Prospect St,Y,Community Initiated (CFS),,,A,A,N,F,18,17-20,Fort Worth,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/26/21,Arrest,100BLK E San Antonio St,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,28,25-34,Kyle,A,On-View Arrest,EVADING ARREST DETENTION,,,DOC - Fighting,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/26/21,Arrest,100BLK E San Antonio St,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,28,25-34,New Braunfels,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/27/21,Arrest,1300BLK  Wonder World Dr,Y,Community Initiated (CFS),Demand for Magistrate,,H,W,H,M,24,21-24,San Marcos,A,On-View Arrest,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/27/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,22,21-24,Manor,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/27/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,F,31,25-34,Dale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/27/21,Citation Issued,100BLK E Hopkins St,Y,Violation of Law,,,W,W,N,F,19,17-20,Leander,C,Summoned/Cited,Misrep of Age by Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,20,17-20,San Marcos,C,Summoned/Cited,Misrep of Age by Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,53,45-54,Katy,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,28,25-34,Houston,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,38,35-44,New Braunfels,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,18,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,M,18,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Report,600BLK E Hopkins St,Y,Violation of Law,,,H,W,H,M,19,17-20,San Marcos,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/28/21,Report,600BLK E Hopkins St,Y,Violation of Law,,,W,W,N,F,18,17-20,San Marcos,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/29/21,Citation Issued,1700BLK  Mill St,Y,Pre Existing Knowledge,,,H,W,H,M,21,21-24,San Antonio,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/29/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,20,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/30/21,Arrest,1300BLK  Wonder World Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,Public Intoxicaiton/Indecent Assault x 2,H,W,H,M,23,21-24,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,,,POSS MARIJ <2OZ,,,22.012(b)-0036230001\M\A,,,,,,,,,,,,,,,3Q2021
+2.1E+11,8/30/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Previous Theft Convictions/Assault CBI,H,W,H,M,30,25-34,San Marcos,A,On-View Arrest,THEFT PROP >=$100<$750 ENH IAT,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/1/21,Citation Issued,1100BLK E River Ridge Pkwy,Y,Community Initiated (CFS),,,H,W,H,M,20,17-20,Boerne,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/1/21,Citation Issued,Hays St/Hwy 123,Y,Moving Traffic Violation,,,H,W,H,M,18,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/1/21,Citation Issued,River Rd/Linda Dr,Y,Moving Traffic Violation,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/2/21,Arrest,500BLK  Craddock Ave,Y,Community Initiated (CFS),Arrest Warrant,Warrant issued for Fail to Appear on original Cite and Release Offense,H,W,H,M,19,17-20,San Marcos,A,Warrant Arrest,,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/2/21,Citation Issued,200BLK  SB ,Y,Community Initiated (CFS),,,H,W,H,F,23,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/2/21,Citation Issued,200BLK  Mill St,Y,Moving Traffic Violation,,,W,W,N,M,19,17-20,Liberty Hill,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/2/21,Citation Issued,2800BLK S IH 35 ,Y,Violation of Law,,,H,W,H,M,42,35-44,,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/3/21,Citation Issued,200BLK N LBJ Dr,Y,Moving Traffic Violation,,,H,W,H,M,22,21-24,Brownsville,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Citation Issued,1300BLK  Wonder World Dr,Y,Community Initiated (CFS),,,W,W,N,M,31,25-34,San Marcos,C,Summoned/Cited,Criminal Mischief,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Report,200BLK  NB ,Y,Community Initiated (CFS),,,H,W,H,M,19,17-20,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Arrest,1300BLK W Hopkins St,Y,Community Initiated (CFS),Other Non-Citable Offenses,PI,W,W,N,F,29,25-34,Durango,A,On-View Arrest,Public Intoxication - Alcohol,,,,,,Others\\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,H,W,H,M,16,<17,San Marcos,C,Summoned/Cited,Consuming Alcohol after hours,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Citation Issued,100BLK W Hopkins St,Y,Violation of Law,,,W,W,N,F,21,21-24,Fort Worth,C,Summoned/Cited,Consuming Alcohol after hours,,,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Arrest,200BLK S Mile Marker ,Y,Moving Traffic Violation,Other Non-Citable Offenses,No Hays County Affiliation,H,W,H,M,43,35-44,San Marcos,A,On-View Arrest,POSS CS PG 2 < 1G,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/4/21,Arrest,600BLK E Hopkins St,Y,Community Initiated (CFS),Imminent Danger,,W,W,N,F,29,25-34,San Marcos,A,On-View Arrest,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/5/21,Arrest,200BLK E Hopkins St,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,Theft warrant and POM,B,B,N,F,46,45-54,Converse,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,20,17-20,San Antonio,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/6/21,Citation Issued,1700BLK  Mill St,Y,Suspicious Circumstances,,,H,W,H,M,19,17-20,Houston,C,Summoned/Cited,Consuming Alcohol after hours,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/6/21,Citation Issued,1700BLK  Mill St,Y,Suspicious Circumstances,,,H,W,H,M,20,17-20,Houston,C,Summoned/Cited,Consuming Alcohol after hours,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/6/21,Arrest,2800BLK N IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,POM,W,W,N,M,31,25-34,Cedar Creek,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,,H,W,H,M,15,<17,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,19,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,19,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,19,17-20,Austin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,POCS,W,W,N,F,51,45-54,,A,On-View Arrest,Theft under $100,,,POSS CS PG 1 <1G,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/7/21,Citation Issued,500BLK S C M Allen Pkwy,Y,Moving Traffic Violation,,,W,W,N,M,29,25-34,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/8/21,Citation Issued,200BLK  SB ,Y,Moving Traffic Violation,,,B,B,N,M,24,21-24,Killeen,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/8/21,Arrest,1300BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,24,21-24,San Marcos,A,On-View Arrest,CRIMINAL TRESPASS,,,Public Intoxication - Alcohol,,,481.125-HSC~2\\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/10/21,Arrest,700BLK  Barnes Dr,Y,Suspicious Circumstances,Other Non-Citable Offenses,"arrested for UUMV, also has no Hays Co ties",B,B,N,F,29,25-34,Houston,A,On-View Arrest,UNAUTH USE OF VEHICLE,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/10/21,Citation Issued,300BLK  Alhambra Dr,Y,Suspicious Circumstances,,,H,W,H,F,21,21-24,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/10/21,Citation Issued,600BLK  Mill St,Y,Community Initiated (CFS),,,W,W,N,M,25,25-34,Copperas Cove,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,20,17-20,Round Rock,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,19,17-20,Mcallen,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Citation Issued,E Hopkins St/Kissing Aly,Y,Violation of Law,,,H,W,H,F,20,17-20,San Marcos,C,Summoned/Cited,Minor Consuming Alcohol,,,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,,H,W,H,M,17,17-20,,A,On-View Arrest,Theft Prop >=$100<$750,,,EVADING ARREST DETENTION,,,71.02(b)-0073990711\M\A,,,481.117(b)-HSC-MA\M\A,,,481.121(b)(1)-HSC-MB\M\B,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,,B,B,N,M,20,17-20,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,ENGAGING IN ORGANIZED CRIMINAL ACTIVITY,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/12/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,F,17,17-20,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,ENGAGING IN ORGANIZED CRIMINAL ACTIVITY,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/13/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,20,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/14/21,Citation Issued,2500BLK S IH 35 ,Y,Violation of Law,,,W,W,N,M,23,21-24,San Antonio,C,Summoned/Cited,Assault Physical Contact,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/14/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,22,21-24,Tahoka,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/16/21,Citation Issued,1300BLK N IH 35 ,Y,Suspicious Circumstances,,,B,B,N,M,28,25-34,Austin,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/16/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,F,31,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/16/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,W,W,N,M,30,25-34,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/16/21,Citation Issued,600BLK  Cheatham St,Y,Suspicious Circumstances,,,W,W,N,M,50,45-54,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,A,A,N,M,24,21-24,Riverside,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,19,17-20,Missouri City,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,19,17-20,Sugar Land,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/18/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,19,17-20,Richmond,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/20/21,Citation Issued,1000BLK  Leah Ave,Y,Suspicious Circumstances,,,H,W,H,M,27,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/21/21,Citation Issued,100BLK  Meiners St,Y,Moving Traffic Violation,,,B,B,N,M,24,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/21/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,F,18,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/22/21,Arrest,100BLK  West Ave,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,25,25-34,Austin,A,On-View Arrest,POSS CS PG 1 >=1G<4G,,,POSS CS PG 1 >=4G<200G,,,481.125-HSC\\,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,100BLK  Riviera St,Y,Violation of Law,,,H,W,H,M,36,35-44,San Marcos,C,Summoned/Cited,DOC - Window Peeping,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,100BLK N Edward Gary St,Y,Suspicious Circumstances,,,W,W,N,M,23,21-24,Conroe,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Arrest,700BLK  River Rd,Y,Community Initiated (CFS),No Hays County Connection,Criminal Mischief >$375,B,B,N,M,20,17-20,New Braunfels,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,W,W,N,M,18,17-20,New Braunfels,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,W,W,N,F,19,17-20,New Braunfels,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,W,W,N,F,19,17-20,New Braunfels,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,W,W,N,M,19,17-20,New Braunfels,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,52,45-54,Lockhart,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,200BLK N Guadalupe St,Y,Violation of Law,,,H,W,H,M,21,21-24,Kyle,C,Summoned/Cited,DOC - Exposing,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,21,21-24,,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,200BLK N Guadalupe St,Y,Violation of Law,,,H,W,H,M,21,21-24,Buda,C,Summoned/Cited,DOC - Exposing,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/25/21,Citation Issued,Hwy 80,Y,Community Initiated (CFS),,,W,W,N,M,50,45-54,Rogers,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/26/21,Arrest,100BLK N Guadalupe St,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,M,23,21-24,La Vernia,A,On-View Arrest,DOC - Fighting,,,EVADING ARREST DETENTION,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/26/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,20,17-20,San Marcos,C,Summoned/Cited,Misrep of Age by Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/26/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,20,17-20,Springfield,C,Summoned/Cited,Misrep of Age by Minor,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/29/21,Citation Issued,E Hopkins St/W Access Rd,Y,Community Initiated (CFS),,,H,W,H,M,24,21-24,,C,Summoned/Cited,Violation of City Ordinance,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/30/21,Citation Issued,1300BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,20,17-20,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,9/30/21,Citation Issued,1300BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,22,21-24,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,3Q2021
+2.1E+11,12/30/21,Arrest,2300BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,44,35-44,San Marcos,A,Warrant Arrest,POSS CS PG 1 <1G,,,Instanter,,,Warrant Arrest,,,502.475(d)-TRC-MB\\,,,,,,,,,,,,4Q2021
+2.1E+11,12/29/21,Citation Issued,100BLK  Crest Dr,Y,Community Initiated (CFS),,,W,W,,M,21,21-24,Dripping Springs,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/26/21,Arrest,100BLK N IH 35 ,Y,Moving Traffic Violation,No Hays County Connection,,B,B,N,M,25,25-34,Austin,A,On-View Arrest,DWLI,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/24/21,Citation Issued,600BLK  River Rd,Y,Community Initiated (CFS),,,W,W,N,M,19,17-20,,C,Summoned/Cited,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/24/21,Citation Issued,1000BLK  Hwy 123 ,Y,Moving Traffic Violation,,,W,W,N,M,26,25-34,San Marcos,C,Summoned/Cited,DWLI,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/23/21,Citation Issued,1500BLK  Aquarena Springs Dr,Y,Violation of Law,,,H,W,H,M,25,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/23/21,Citation Issued,100BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,1600BLK  Girard Ave,Y,Moving Traffic Violation,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,700BLK E Hopkins St,Y,Violation of Law,,,H,W,H,M,27,25-34,San Marcos,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,24,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,M,32,25-34,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,400BLK S C M Allen Pkwy,Y,Pre Existing Knowledge,,,H,W,H,M,41,35-44,Kyle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/22/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,50,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/19/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,Citation #3708,H,W,H,F,21,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/17/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,M,19,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/17/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,37,35-44,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/17/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,28,25-34,Paige,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/17/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,26,25-34,Bastrop,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/16/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,W,W,N,M,21,21-24,San Antonio,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/16/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,H,W,H,M,21,21-24,San Antonio,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/15/21,Citation Issued,1000BLK  Hwy 123 ,Y,Moving Traffic Violation,,,H,W,H,M,36,35-44,San Marcos,C,Summoned/Cited,DWLI,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/12/21,Arrest,100BLK W Hopkins St,Y,Violation of Law,Other Non-Citable Offenses,Public Intoxication,W,W,N,M,22,21-24,Spring,A,On-View Arrest,Public Intoxication - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/12/21,Citation Issued,1400BLK N LBJ Dr,Y,Suspicious Circumstances,,,H,W,H,F,26,25-34,San Marcos,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/11/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,21,21-24,New Braunfels,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/11/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,H,W,H,M,49,45-54,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Arrest,1000BLK  Uhland Rd,Y,Community Initiated (CFS),Other Non-Citable Offenses,Public Intoxication,H,W,H,M,20,17-20,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Citation Issued,S Mitchell Ave/W MLK Dr,Y,Moving Traffic Violation,,,H,W,H,M,35,35-44,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Citation Issued,100BLK E Hopkins St,Y,Violation of Law,,,H,W,H,F,20,17-20,Odessa,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Citation Issued,100BLK E Hopkins St,Y,Violation of Law,,,H,W,H,F,23,21-24,Odessa,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Arrest,3900BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,DWI/UCW/Theft of Firearm,H,W,H,M,21,21-24,New,A,On-View Arrest,DWLI,,,46.02(b)-PC-MA\M\A,,,31.03(e)(4)(C)-PC-FS\F\,,,DRIVING WHILE INTOXICATED,,,,,,,,,,,,4Q2021
+2.1E+11,12/10/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,20,17-20,Katy,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/9/21,Citation Issued,Wonder World Dr/W Access Rd,Y,Violation of Law,,,A,A,N,M,32,25-34,Rio Linda,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/7/21,Citation Issued,Warden Ln/Aquarena Springs Dr,Y,Violation of Law,,,W,W,N,F,26,25-34,New Braunfels,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,53,45-54,Maxwell,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,21,21-24,Houston,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,B,B,N,F,21,21-24,Houston,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/5/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,19,17-20,Martindale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/5/21,Arrest,900BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Warrant Arrest as well as Fail to ID and Resist Transport,H,W,H,F,23,21-24,San Marcos,A,On-View Arrest,Fail to ID,,,POSS MARIJ <2OZ,,,Warrant Arrest,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,1500BLK  Old Ranch Road 12 ,Y,Violation of Law,,,H,W,H,M,20,17-20,Magnolia,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,1500BLK  Old Ranch Road 12 ,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,1500BLK  Old Ranch Road 12 ,Y,Violation of Law,,,W,W,N,M,21,21-24,Magnolia,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,1500BLK  Old Ranch Road 12 ,Y,Violation of Law,,,H,W,H,M,22,21-24,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,1500BLK  Old Ranch Road 12 ,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,EXIT 208 NB,Y,Moving Traffic Violation,,,A,A,N,M,33,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,700BLK  River Rd,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Arrest,300BLK N Guadalupe St,Y,Community Initiated (CFS),Imminent Danger,Public Intoxication,W,W,N,M,21,21-24,San Marcos,A,On-View Arrest,Public Intoxication - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/4/21,Citation Issued,N LBJ Dr/Sessom Dr,Y,Pre Existing Knowledge,,,W,W,N,M,18,17-20,Bandera,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,S C M Allen Pkwy/E Grove St,Y,Moving Traffic Violation,,,B,B,N,M,18,17-20,Fulshear,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,700BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,,W,W,N,M,20,17-20,Waelder,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,E San Antonio St/LBJ Dr,Y,Violation of Law,,,W,W,N,F,18,17-20,Kingwood,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,E San Antonio St/LBJ Dr,Y,Violation of Law,,,W,W,N,M,19,17-20,Spring,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,19,17-20,La Porte,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,20,17-20,La Porte,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,Consumption Of Alcohol-Minor,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,18,17-20,Liberty Hill,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,Consumption Of Alcohol-Minor,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,18,17-20,Sugar Land,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,18,17-20,Kay,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/3/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,A,A,N,F,21,21-24,Sugar Land,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,12/1/21,Report,200BLK  SB ,Y,Pre Existing Knowledge,,,H,W,H,M,26,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/30/21,Citation Issued,2200BLK S IH 35 ,Y,Pre Existing Knowledge,,,W,W,N,F,30,25-34,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/30/21,Citation Issued,2200BLK S IH 35 ,Y,Pre Existing Knowledge,,,0,,,F,33,25-34,Kyle,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/30/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,A,A,N,F,19,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/29/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,21,21-24,Martindale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/29/21,Arrest,1000BLK N IH 35 ,Y,Community Initiated (CFS),Arrest Warrant,Criminal Mischief,W,W,N,M,38,35-44,San Antonio,A,Warrant Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/29/21,Citation Issued,3000BLK S IH 35 ,Y,Violation of Law,,,W,W,N,M,44,35-44,Chattanoga,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/28/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,42,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/28/21,Arrest,1300BLK N IH 35 ,Y,Moving Traffic Violation,,,H,W,H,M,49,45-54,Kyle,C,Summoned/Cited,DWLI,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/28/21,Citation Issued,Roosevelt St/S Guadalupe St,Y,Moving Traffic Violation,,,H,W,H,M,23,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/27/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,47,45-54,San Angelo,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/27/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,18,17-20,San Angelo,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/27/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,18,17-20,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/26/21,Citation Issued,200BLK  NB ,Y,Moving Traffic Violation,,,H,W,H,M,27,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/25/21,Citation Issued,300BLK  Mill St,Y,Violation of Law,,,H,W,H,M,59,55-64,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/25/21,Citation Issued,300BLK  Mill St,Y,Violation of Law,,,H,W,H,M,59,55-64,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/21/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,16,<17,Lockhart,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/21/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,22,21-24,Austin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/21/21,Citation Issued,200BLK N LBJ Dr,Y,Violation of Law,,,H,W,H,M,27,25-34,Austin,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,1100BLK N IH 35 ,Y,Moving Traffic Violation,,,B,B,N,M,29,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,100BLK  Mill St,Y,Moving Traffic Violation,,,W,W,N,M,19,17-20,Beaumont,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,100BLK  Mill St,Y,Moving Traffic Violation,,,B,B,N,M,18,17-20,Beaumont,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,100BLK  Mill St,Y,Moving Traffic Violation,,,B,B,N,M,19,17-20,Beaumont,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,100BLK  Mill St,Y,Moving Traffic Violation,,,W,W,N,F,18,17-20,San Marcos,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/20/21,Citation Issued,100BLK N LBJ Dr,Y,Vehicle Traffic Violation,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/19/21,Arrest,200BLK  Springtown Way,Y,Community Initiated (CFS),Other Non-Citable Offenses,AFV/POM,W,W,N,M,29,25-34,San Marcos,A,On-View Arrest,ASSAULT CAUSES BODILY INJURY FAMILY VIOL,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/19/21,Arrest,1600BLK  Aquarena Springs Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,POCS and ID Theft,W,W,N,M,28,25-34,Spicewood,A,On-View Arrest,FRAUD USE/POSS IDENTIFYING INFO # ITEMS,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/18/21,Citation Issued,600BLK E Hopkins St,Y,Moving Traffic Violation,,,W,W,N,M,22,21-24,Cibolo,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/17/21,Citation Issued,700BLK E Hopkins St,Y,Vehicle Traffic Violation,,,H,W,H,M,21,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ >2OZ<=4OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/17/21,Arrest,San Marcos Parkway/E Access,Y,Moving Traffic Violation,No Hays County Connection,,H,W,H,M,43,35-44,Austin,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/17/21,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Vehicle Traffic Violation,,,B,B,N,F,22,21-24,Houston,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/16/21,Citation Issued,600BLK  Wonder World Dr,Y,Violation of Law,,,A,A,N,M,23,21-24,San Marcos,C,Summoned/Cited,Criminal Mischief under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/15/21,Citation Issued,200BLK N IH 35 ,Y,Moving Traffic Violation,,,W,W,N,M,22,21-24,Kyle,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/15/21,Arrest,1000BLK S IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,H,W,H,M,31,25-34,San Marcos,A,On-View Arrest,POSS CS PG 1 >=4G<200G,,,Fail to ID,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/14/21,Arrest,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,Fraud offense/non-resident,W,W,N,F,37,35-44,New Braunfels,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/14/21,Arrest,900BLK  Hwy 80 ,Y,Violation of Law,Arrest Warrant,,W,W,N,M,27,25-34,Kyle,A,Warrant Arrest,DWLI,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/14/21,Citation Issued,900BLK N IH 35 ,Y,Violation of Law,,,H,W,H,F,49,45-54,San Marcos,C,Summoned/Cited,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/14/21,Arrest,100BLK  Craddock Ave,Y,Vehicle Traffic Violation,Other Non-Citable Offenses,,B,B,N,M,19,17-20,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,38.04(b)(2)(A)-PC-F3\\,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/13/21,Citation Issued,100BLK E San Antonio St,Y,Violation of Law,,,H,W,H,M,28,25-34,San Antonio,C,Summoned/Cited,DOC - Exposing,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/13/21,Citation Issued,100BLK N Guadalupe St,Y,Violation of Law,,,H,W,H,M,39,35-44,Colorado Springs,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/13/21,Citation Issued,100BLK N Guadalupe St,Y,Violation of Law,,,W,W,N,M,28,25-34,Colorado Springs,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,1100BLK  Hwy 123 ,Y,Violation of Law,,,B,B,N,M,15,<17,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,Wonder World Dr/W Access Rd,Y,Violation of Law,,,B,B,N,M,34,25-34,San Antonio,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,Wonder World Dr/W Access Rd,Y,Violation of Law,,,B,B,N,M,42,35-44,San Antonio,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,Wonder World Dr/W Access Rd,Y,Violation of Law,,,B,B,N,M,49,45-54,San Antonio,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,1200BLK N LBJ Dr,Y,Violation of Law,,,H,W,H,M,25,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,H,W,H,F,20,17-20,Corpus Christi,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,F,20,17-20,Corpus Christi,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,20,17-20,Corpus Christi,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/12/21,Citation Issued,300BLK  Reynolds St,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Park curfew,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/11/21,Report,1200BLK  Hwy 80 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,N,M,63,55-64,San Marcos,0,Warrant Arrest,"Theft Prop >=$2,500<$30k",,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/8/21,Citation Issued,100BLK  West Ave,Y,Community Initiated (CFS),,Related to 21-66607,B,B,N,F,21,21-24,San Marcos,C,Summoned/Cited,POSS MARIJ >2OZ<=4OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/8/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,20,17-20,Mcallen,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/8/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,20,17-20,Round Rock,C,Summoned/Cited,DOC - Noise Unreasonable,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/8/21,Citation Issued,200BLK W Access Rd,Y,Violation of Law,,,H,W,H,M,26,25-34,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,19,17-20,Martindale,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,1300BLK S IH 35 ,Y,Violation of Law,,,H,W,H,M,24,21-24,Dallas,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,18,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,20,17-20,Atascosa,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Arrest,1000BLK N IH 35 ,Y,Community Initiated (CFS),Arrest Warrant,,H,W,H,M,36,35-44,San Marcos,A,Warrant Arrest,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,1100BLK N IH 35 ,Y,Pre Existing Knowledge,,,B,B,N,M,19,17-20,Pearland,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,100BLK S Guadalupe St,Y,Violation of Law,,,H,W,H,M,21,21-24,Austin,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/7/21,Citation Issued,300BLK N LBJ Dr,Y,Moving Traffic Violation,,,B,B,N,M,21,21-24,San Antonio,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,38,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/6/21,Arrest,400BLK  Wonder World Dr,Y,Moving Traffic Violation,Other Non-Citable Offenses,POCS & DWLI,W,W,N,M,38,35-44,San Marcos,A,On-View Arrest,POSS CS PG 1 <1G,,,DWLI,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/6/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,53,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/6/21,Arrest,100BLK N Guadalupe St,Y,Community Initiated (CFS),Imminent Danger,,W,W,N,M,28,25-34,New Braunfels,A,On-View Arrest,Public Intoxication - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/6/21,Citation Issued,100BLK W San Antonio St,Y,Violation of Law,,,W,W,N,M,25,25-34,Pflugerville,C,Summoned/Cited,VOCO - Urinating in Public,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/4/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,23,21-24,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/4/21,Multiple Arrest,900BLK N IH 35 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,,W,W,,M,42,35-44,Jay,A,Warrant Arrest,POSS CS PG 1 <1G,,,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/3/21,Citation Issued,1900BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,,H,W,H,M,26,25-34,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/2/21,Arrest,100BLK  Warden Ln,Y,Community Initiated (CFS),Other Non-Citable Offenses,Criminal Mischief above $375 and to prevent further FV,H,W,H,M,24,21-24,San Marcos,A,On-View Arrest,Criminal Mischief >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/1/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,F,21,21-24,Fort Worth,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/1/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,F,20,17-20,Sugar Land,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/1/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,F,20,17-20,Schertz,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/1/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,B,B,N,M,19,17-20,Luling,C,Summoned/Cited,Open Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,11/1/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,W,W,N,M,21,21-24,Orange,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,A,A,N,F,20,17-20,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Citation Issued,1700BLK  Mill St,Y,Violation of Law,,,H,W,H,F,21,21-24,Houston,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Citation Issued,100BLK N Guadalupe St,Y,Violation of Law,,,H,W,H,M,30,25-34,Kyle,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Arrest,100BLK N LBJ Dr,Y,Violation of Law,Other Non-Citable Offenses,,W,W,N,F,20,17-20,Austin,A,On-View Arrest,Fail to ID,,,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Citation Issued,200BLK  Telluride St,Y,Violation of Law,,,H,W,H,F,22,21-24,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/31/21,Citation Issued,200BLK  Telluride St,Y,Violation of Law,,,W,W,U,F,21,21-24,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/30/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,36,35-44,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/27/21,Citation Issued,100BLK E San Antonio St,Y,Moving Traffic Violation,,,W,W,N,F,18,17-20,Monrovia,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/26/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,54,45-54,San Marcos,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,A,A,,F,17,17-20,San Marcos,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/25/21,Citation Issued,1000BLK  Hwy 80 ,Y,Community Initiated (CFS),,,H,W,H,F,19,17-20,,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/25/21,Arrest,100BLK  Warden Ln,Y,Moving Traffic Violation,Other Non-Citable Offenses,Reckless Driving and POM,H,W,H,M,19,17-20,San Marcos,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/24/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,27,25-34,Seguin,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/24/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,45,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/23/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,F,29,25-34,Round Rock,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/23/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,54,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/23/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,30,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/23/21,Citation Issued,2500BLK  Rattler Rd,Y,Community Initiated (CFS),,,W,W,N,M,38,35-44,New Braunfels,C,Summoned/Cited,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/23/21,Citation Issued,1600BLK N IH 35 ,Y,Violation of Law,,,H,W,H,M,19,17-20,Austin,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/22/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,47,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/22/21,Arrest,100BLK S LBJ Dr,Y,Community Initiated (CFS),Other Non-Citable Offenses,PI,H,W,H,M,29,25-34,New Braunfels,A,On-View Arrest,Public Intoxication - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/20/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,Did not meet criteria for cite and release,H,W,H,M,40,35-44,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/20/21,Multiple Arrest,1000BLK  Hwy 80 ,Y,Violation of Law,Other Non-Citable Offenses,Did not meet criteria for cite and release,H,W,H,M,25,25-34,San Marcos,A,On-View Arrest,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/20/21,Citation Issued,100BLK  Concho St,Y,Violation of Law,,,H,W,H,M,20,17-20,San Marcos,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/19/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,W,W,N,M,19,17-20,Waco,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/19/21,Citation Issued,200BLK  Scott St,Y,Violation of Law,,,W,W,N,M,25,25-34,Winter Haven,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/17/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,45,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/16/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,40,35-44,Wimberley,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/16/21,Citation Issued,N Bishop St/Craddock Ave,Y,Moving Traffic Violation,,,W,W,N,M,22,21-24,Cypress,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/16/21,Citation Issued,100BLK N LBJ Dr,Y,Violation of Law,,,A,A,N,F,20,17-20,Plano,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/15/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,24,21-24,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/15/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,27,25-34,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/15/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,F,18,17-20,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,1900BLK  Aquarena Springs Dr,Y,Violation of Law,,,W,W,,F,20,17-20,Schulenburg,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,19,17-20,Katy,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,18,17-20,Fulshear,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,N Bishop St/Craddock Ave,Y,Moving Traffic Violation,,,W,W,N,M,18,17-20,El Paso,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,1000BLK  Hwy 123 ,Y,Moving Traffic Violation,,,H,W,H,F,19,17-20,La Porte,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/12/21,Citation Issued,E Access Rd/Hwy 123,Y,Violation of Law,,,W,W,N,M,40,35-44,,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/11/21,Citation Issued,Allen St/Craddock Ave,Y,Moving Traffic Violation,,,W,W,N,M,19,17-20,Fort Pierce,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,F,45,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Arrest,200BLK E Sessom Dr,Y,Moving Traffic Violation,No Hays County Connection,POM,W,W,N,M,19,17-20,Bastrop,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Arrest,200BLK E Sessom Dr,Y,Moving Traffic Violation,No Hays County Connection,POM,W,W,N,M,18,17-20,Paige,A,On-View Arrest,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Citation Issued,700BLK E Hopkins St,Y,Violation of Law,,,H,W,H,M,32,25-34,San Marcos,C,Summoned/Cited,DOC - Fighting,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Citation Issued,1100BLK E River Ridge Pkwy,Y,Violation of Law,,,B,B,N,F,21,21-24,Hutto,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/10/21,Citation Issued,1100BLK E River Ridge Pkwy,Y,Violation of Law,,,H,W,H,F,23,21-24,Mesquite,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/9/21,Citation Issued,1600BLK  Aquarena Springs Dr,Y,Moving Traffic Violation,,,W,W,N,M,19,17-20,Dallas,C,Summoned/Cited,Poss of Drug Paraphernalia - General,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/9/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,F,26,25-34,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/9/21,Citation Issued,500BLK  Craddock Ave,Y,Violation of Law,,,W,W,N,M,18,17-20,San Marcos,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/9/21,Citation Issued,500BLK  Craddock Ave,Y,Violation of Law,,,W,W,N,M,20,17-20,Missouri City,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/9/21,Citation Issued,500BLK  Craddock Ave,Y,Violation of Law,,,W,W,N,M,19,17-20,Missouri City,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/8/21,Citation Issued,2900BLK  Hunter Rd,Y,Vehicle Traffic Violation,,,W,W,N,M,20,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Pipe,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,H,W,H,M,21,21-24,Kyle,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/7/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,B,B,N,F,19,17-20,Garland,C,Summoned/Cited,Theft Prop >=$100<$750,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/6/21,Citation Issued,Uhland Rd/W Access Rd,Y,Violation of Law,,,B,B,N,M,21,21-24,San Marcos,C,Summoned/Cited,Minor in Possession - Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/6/21,Citation Issued,100BLK E San Antonio St,Y,Violation of Law,,,W,W,N,F,20,17-20,Huntsville,C,Summoned/Cited,Misrepresentation Of Age By A Minor,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/5/21,Arrest,1000BLK  Hwy 123 ,Y,Community Initiated (CFS),Other Non-Citable Offenses,POSSESSION OF FIREARM NOT IN HOLSTER,B,B,N,M,27,25-34,San Marcos,A,On-View Arrest,Unl Carrying Weapon,,,POSS MARIJ <2OZ,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/4/21,Citation Issued,4000BLK S IH 35 ,Y,Violation of Law,,,H,W,H,M,18,17-20,San Marcos,C,Summoned/Cited,Poss of Drug Paraphernalia - Container,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/3/21,Citation Issued,N Guadalupe St/E Hopkins St,Y,Violation of Law,,,W,W,N,F,19,17-20,Adkins,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/2/21,Citation Issued,1400BLK  Craddock Ave,Y,Violation of Law,,,H,W,H,F,19,17-20,Victoria,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/1/21,Citation Issued,1000BLK  Hwy 80 ,Y,Violation of Law,,,W,W,N,M,48,45-54,San Marcos,C,Summoned/Cited,Theft under $100,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/1/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,20,17-20,Round Rock,C,Summoned/Cited,Violation Of City Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/1/21,Citation Issued,200BLK  Springtown Way,Y,Violation of Law,,,H,W,H,M,19,17-20,San Marcos,C,Summoned/Cited,Noise Host Responsibilty -Local Ordinance,,,,,,,,,,,,,,,,,,,,,4Q2021
+2.1E+11,10/1/21,Citation Issued,100BLK E San Antonio St,Y,Violation of Law,,,W,W,N,M,18,17-20,Austin,C,Summoned/Cited,Minor Consuming Alcohol,,,,,,,,,,,,,,,,,,,,,4Q2021
